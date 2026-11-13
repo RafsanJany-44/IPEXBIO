@@ -1,0 +1,10 @@
+check,observed,status
+Advertised cohort,17/17 participant IDs loaded,observed_complete_count
+Movement and EMG task matches,132,candidates_pending_timing_and_QC
+Exact duplicate rows,38,review_and_group_or_retain_one
+Task participant mismatch,0,none_detected
+Signal flag rows,41,channel_specific_review
+Event semantics and clock alignment,No verified common time origin supplied,unresolved
+MVC physiological validity,Availability and diagnostic RMS only,unresolved
+Participant descriptors,1 workbook sheets extracted,verify_headers_units_and_ID_mapping
+Within-condition added predictive value,Requires later worker-separated modelling,not_tested

@@ -1,0 +1,15 @@
+{
+  "INAIL1_start": "Proceed with audit resolution and target construction when movement, EMG, MVC and timing are verified; do not start phase-supervised training from this audit alone.",
+  "INAIL2_for_initial_Project_A": "Not an automatic requirement. Decide after valid INAIL1 targets, worker coverage and within-condition variability are established.",
+  "INAIL2_when_useful": "Compatible independent-protocol validation, broader lifting conditions, or a later journal extension; verify muscles, normalization, task semantics and participant independence first.",
+  "INAIL2_when_not_a_fix": "It cannot by itself resolve INAIL1 timing, invalid MVC references, duplicates or a task-confounded model.",
+  "decision_limit": "No binary publication or sufficiency verdict can be inferred solely from participant counts or file readability.",
+  "next_analysis": [
+    "Resolve event indexing and stream offsets using acquisition metadata or source export",
+    "Review channel units, MVC contractions and recording exclusions",
+    "Map Subjects_info columns to participant pseudonyms",
+    "Construct valid lifting-phase outcomes",
+    "Use worker-grouped splits and duplicate-family controls",
+    "Compare full task/descriptor baseline with movement models within lifting conditions"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "audit_version": "1.0",
+  "generated_utc": "2026-11-13T04:57:24.448195+00:00",
+  "python": "3.11.14 (main, Oct 21 2025, 18:31:21) [GCC 11.2.0]",
+  "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.35",
+  "packages": {
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "matplotlib": "3.10.8",
+    "openpyxl": "3.1.5",
+    "python-docx": "not_installed"
+  },
+  "data_root": "/home/rafsan/Downloads/INAIL_1/Dataset1/DATA",
+  "files_found": 17,
+  "loaded_subjects": 17,
+  "advertised_subjects": 17,
+  "trial_stream_rows": 396,
+  "paired_candidate_tasks": 132,
+  "duplicate_rows": 38,
+  "parser_errors": 0,
+  "figures": [
+    "figures/S01_first_trial.png",
+    "figures/S02_first_trial.png",
+    "figures/S03_first_trial.png",
+    "figures/condition_coverage.png"
+  ],
+  "alignment_verified": false,
+  "target_validity_verified": false,
+  "models_trained": false
+}

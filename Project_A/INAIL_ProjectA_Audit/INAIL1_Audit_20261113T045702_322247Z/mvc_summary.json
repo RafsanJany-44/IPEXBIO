@@ -1,0 +1,2450 @@
+[
+  {
+    "subject": "S01",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 231.51172963373332,
+    "reference_max": 237.38460470069776,
+    "repeat_max_min_ratio": 1.0253675054661624
+  },
+  {
+    "subject": "S01",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 367.902397319995,
+    "reference_max": 414.02547325315345,
+    "repeat_max_min_ratio": 1.1253676960768522
+  },
+  {
+    "subject": "S01",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 304.24249298917545,
+    "reference_max": 375.8077687079381,
+    "repeat_max_min_ratio": 1.2352244586731969
+  },
+  {
+    "subject": "S01",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 1465.2373181962237,
+    "reference_max": 1783.4560229756803,
+    "repeat_max_min_ratio": 1.2171789517149336
+  },
+  {
+    "subject": "S01",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 150.46888054212042,
+    "reference_max": 159.77662014954956,
+    "repeat_max_min_ratio": 1.0618582365595766
+  },
+  {
+    "subject": "S01",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 101.40367089276171,
+    "reference_max": 122.80486991309004,
+    "repeat_max_min_ratio": 1.2110495491130782
+  },
+  {
+    "subject": "S01",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 258.2043190806879,
+    "reference_max": 304.65685568176315,
+    "repeat_max_min_ratio": 1.1799061176298875
+  },
+  {
+    "subject": "S01",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 508.77534240476075,
+    "reference_max": 552.6466872959786,
+    "repeat_max_min_ratio": 1.0862293064043886
+  },
+  {
+    "subject": "S01",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 168.26746891843786,
+    "reference_max": 193.1935666156912,
+    "repeat_max_min_ratio": 1.148133788767783
+  },
+  {
+    "subject": "S01",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 277.80117485584856,
+    "reference_max": 351.58382573008646,
+    "repeat_max_min_ratio": 1.265595172203731
+  },
+  {
+    "subject": "S01",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 234.23257821393136,
+    "reference_max": 268.2557677140438,
+    "repeat_max_min_ratio": 1.145253874416385
+  },
+  {
+    "subject": "S01",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 105.38927771970828,
+    "reference_max": 131.4302183322714,
+    "repeat_max_min_ratio": 1.2470928843617395
+  },
+  {
+    "subject": "S01",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 179.67918337854326,
+    "reference_max": 193.69455703870358,
+    "repeat_max_min_ratio": 1.0780022114784054
+  },
+  {
+    "subject": "S01",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 103.39990287936928,
+    "reference_max": 103.42088590544301,
+    "repeat_max_min_ratio": 1.0002029308102758
+  },
+  {
+    "subject": "S01",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 233.8246457360858,
+    "reference_max": 293.90987762158994,
+    "repeat_max_min_ratio": 1.2569670604925085
+  },
+  {
+    "subject": "S01",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 172.60189325569314,
+    "reference_max": 182.52669531037517,
+    "repeat_max_min_ratio": 1.0575011192952524
+  },
+  {
+    "subject": "S02",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 195.914527610218,
+    "reference_max": 195.914527610218,
+    "repeat_max_min_ratio": 1.0
+  },
+  {
+    "subject": "S02",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 139.33886030704664,
+    "reference_max": 176.7330103957733,
+    "repeat_max_min_ratio": 1.2683684221783142
+  },
+  {
+    "subject": "S02",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 267.0515882556027,
+    "reference_max": 334.1195546166533,
+    "repeat_max_min_ratio": 1.2511423609166403
+  },
+  {
+    "subject": "S02",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 36.64143162637416,
+    "reference_max": 36.64143162637416,
+    "repeat_max_min_ratio": 1.0
+  },
+  {
+    "subject": "S02",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 419.45758676336567,
+    "reference_max": 420.99533976601595,
+    "repeat_max_min_ratio": 1.0036660512318205
+  },
+  {
+    "subject": "S02",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 226.13953714645308,
+    "reference_max": 279.0192935395886,
+    "repeat_max_min_ratio": 1.2338368471979733
+  },
+  {
+    "subject": "S02",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 260.6525044023465,
+    "reference_max": 282.1746841159582,
+    "repeat_max_min_ratio": 1.0825703929565542
+  },
+  {
+    "subject": "S02",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 780.346906177972,
+    "reference_max": 935.5236912475665,
+    "repeat_max_min_ratio": 1.1988561546679648
+  },
+  {
+    "subject": "S02",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 114.40415258774212,
+    "reference_max": 114.40415258774212,
+    "repeat_max_min_ratio": 1.0
+  },
+  {
+    "subject": "S02",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 129.13103920128958,
+    "reference_max": 131.27983512238856,
+    "repeat_max_min_ratio": 1.016640429244509
+  },
+  {
+    "subject": "S02",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 316.70812013030263,
+    "reference_max": 334.0637846143726,
+    "repeat_max_min_ratio": 1.0548001878730782
+  },
+  {
+    "subject": "S02",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 41.79297817042269,
+    "reference_max": 41.79297817042269,
+    "repeat_max_min_ratio": 1.0
+  },
+  {
+    "subject": "S02",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 442.33985683823505,
+    "reference_max": 447.8915169652138,
+    "repeat_max_min_ratio": 1.0125506667354396
+  },
+  {
+    "subject": "S02",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 242.07606817802116,
+    "reference_max": 247.8416745325916,
+    "repeat_max_min_ratio": 1.0238173331133686
+  },
+  {
+    "subject": "S02",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 232.19912354733066,
+    "reference_max": 240.86831783241968,
+    "repeat_max_min_ratio": 1.0373351722980209
+  },
+  {
+    "subject": "S02",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 777.3607889243302,
+    "reference_max": 1012.9289383382529,
+    "repeat_max_min_ratio": 1.3030358010980836
+  },
+  {
+    "subject": "S03",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 71.02075896250943,
+    "reference_max": 74.08197384919873,
+    "repeat_max_min_ratio": 1.0431031001556215
+  },
+  {
+    "subject": "S03",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 152.45082635064523,
+    "reference_max": 194.5838335973216,
+    "repeat_max_min_ratio": 1.2763711306475187
+  },
+  {
+    "subject": "S03",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 179.15323071247403,
+    "reference_max": 215.41651028033954,
+    "repeat_max_min_ratio": 1.2024148792832268
+  },
+  {
+    "subject": "S03",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 48.313773434299364,
+    "reference_max": 54.641018756497644,
+    "repeat_max_min_ratio": 1.1309615224073222
+  },
+  {
+    "subject": "S03",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 128.6067341939394,
+    "reference_max": 133.29672489181385,
+    "repeat_max_min_ratio": 1.0364676914258777
+  },
+  {
+    "subject": "S03",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 253.35485811952748,
+    "reference_max": 274.3484125115958,
+    "repeat_max_min_ratio": 1.0828622531570484
+  },
+  {
+    "subject": "S03",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 285.58225017943226,
+    "reference_max": 308.434520234894,
+    "repeat_max_min_ratio": 1.0800199243514035
+  },
+  {
+    "subject": "S03",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 277.8146962732559,
+    "reference_max": 286.84864072490626,
+    "repeat_max_min_ratio": 1.0325178781858417
+  },
+  {
+    "subject": "S03",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 42.780519924580744,
+    "reference_max": 44.775586648924524,
+    "repeat_max_min_ratio": 1.046634934027472
+  },
+  {
+    "subject": "S03",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 278.52637886266547,
+    "reference_max": 332.74449163758334,
+    "repeat_max_min_ratio": 1.194660602691609
+  },
+  {
+    "subject": "S03",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 157.78256758958244,
+    "reference_max": 165.56286832869685,
+    "repeat_max_min_ratio": 1.0493102682886504
+  },
+  {
+    "subject": "S03",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 44.21195661973821,
+    "reference_max": 73.53231300192101,
+    "repeat_max_min_ratio": 1.6631770820360587
+  },
+  {
+    "subject": "S03",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 59.81385169443543,
+    "reference_max": 120.4300882346428,
+    "repeat_max_min_ratio": 2.013414699489192
+  },
+  {
+    "subject": "S03",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 301.6340815475645,
+    "reference_max": 362.0321609867868,
+    "repeat_max_min_ratio": 1.2002362568889555
+  },
+  {
+    "subject": "S03",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 298.77554417058684,
+    "reference_max": 352.31361708969575,
+    "repeat_max_min_ratio": 1.1791916171309562
+  },
+  {
+    "subject": "S03",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 393.15880011035017,
+    "reference_max": 401.9617889559327,
+    "repeat_max_min_ratio": 1.0223904153820587
+  },
+  {
+    "subject": "S04",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 61.16988024603458,
+    "reference_max": 86.778375518594,
+    "repeat_max_min_ratio": 1.418645502812138
+  },
+  {
+    "subject": "S04",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 76.25867700773985,
+    "reference_max": 89.79148426116771,
+    "repeat_max_min_ratio": 1.177459245090947
+  },
+  {
+    "subject": "S04",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 98.5599931345434,
+    "reference_max": 123.1157568434532,
+    "repeat_max_min_ratio": 1.2491453471936522
+  },
+  {
+    "subject": "S04",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 99.06439613854907,
+    "reference_max": 102.78344574918384,
+    "repeat_max_min_ratio": 1.0375417380572673
+  },
+  {
+    "subject": "S04",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 472.56045728720443,
+    "reference_max": 498.4659963221677,
+    "repeat_max_min_ratio": 1.0548195233762838
+  },
+  {
+    "subject": "S04",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 76.39378562627145,
+    "reference_max": 86.70327382868332,
+    "repeat_max_min_ratio": 1.1349519220430737
+  },
+  {
+    "subject": "S04",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 403.26175025966256,
+    "reference_max": 428.26019495206504,
+    "repeat_max_min_ratio": 1.0619906169536433
+  },
+  {
+    "subject": "S04",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 566.8845446310876,
+    "reference_max": 640.6816246154126,
+    "repeat_max_min_ratio": 1.1301800881383177
+  },
+  {
+    "subject": "S04",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 67.86082972408147,
+    "reference_max": 93.89900322098833,
+    "repeat_max_min_ratio": 1.3836996040687493
+  },
+  {
+    "subject": "S04",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 173.832495945177,
+    "reference_max": 189.11542569084634,
+    "repeat_max_min_ratio": 1.087917564909666
+  },
+  {
+    "subject": "S04",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 118.82733214883336,
+    "reference_max": 129.6804030533046,
+    "repeat_max_min_ratio": 1.091334802424728
+  },
+  {
+    "subject": "S04",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 6.184282062672449,
+    "reference_max": 77.4270375053165,
+    "repeat_max_min_ratio": 12.51997187719758
+  },
+  {
+    "subject": "S04",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 458.52270762946785,
+    "reference_max": 516.8370200997939,
+    "repeat_max_min_ratio": 1.1271786794852696
+  },
+  {
+    "subject": "S04",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 74.79421133356878,
+    "reference_max": 78.19916748076892,
+    "repeat_max_min_ratio": 1.045524327170383
+  },
+  {
+    "subject": "S04",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 429.1776369982353,
+    "reference_max": 468.9710147425838,
+    "repeat_max_min_ratio": 1.0927200634745844
+  },
+  {
+    "subject": "S04",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 226.8263938780993,
+    "reference_max": 282.0262754475699,
+    "repeat_max_min_ratio": 1.2433574004581496
+  },
+  {
+    "subject": "S05",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 307.95561062626143,
+    "reference_max": 356.8347745230801,
+    "repeat_max_min_ratio": 1.1587214592304962
+  },
+  {
+    "subject": "S05",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 243.33467159313759,
+    "reference_max": 247.50301199978486,
+    "repeat_max_min_ratio": 1.017130071844496
+  },
+  {
+    "subject": "S05",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 304.8533312893641,
+    "reference_max": 327.3022205324546,
+    "repeat_max_min_ratio": 1.073638326824719
+  },
+  {
+    "subject": "S05",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 128.57755698830172,
+    "reference_max": 134.55051226201138,
+    "repeat_max_min_ratio": 1.0464541045390456
+  },
+  {
+    "subject": "S05",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 193.77573221902986,
+    "reference_max": 304.1413590514864,
+    "repeat_max_min_ratio": 1.569553398501456
+  },
+  {
+    "subject": "S05",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 234.49518363845442,
+    "reference_max": 235.51393560736736,
+    "repeat_max_min_ratio": 1.0043444473063619
+  },
+  {
+    "subject": "S05",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 498.75459320541876,
+    "reference_max": 499.14899738865535,
+    "repeat_max_min_ratio": 1.0007907780471792
+  },
+  {
+    "subject": "S05",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 848.7081132268677,
+    "reference_max": 849.8813519224749,
+    "repeat_max_min_ratio": 1.0013823818546361
+  },
+  {
+    "subject": "S05",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 346.3027407184943,
+    "reference_max": 376.29805468342914,
+    "repeat_max_min_ratio": 1.0866158722934212
+  },
+  {
+    "subject": "S05",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 236.44956095331588,
+    "reference_max": 294.56143021986367,
+    "repeat_max_min_ratio": 1.245768564899223
+  },
+  {
+    "subject": "S05",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 295.1459435989208,
+    "reference_max": 296.69159908814294,
+    "repeat_max_min_ratio": 1.0052369193029553
+  },
+  {
+    "subject": "S05",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 168.5394274201156,
+    "reference_max": 181.19442234348344,
+    "repeat_max_min_ratio": 1.075086257958044
+  },
+  {
+    "subject": "S05",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 790.400662894078,
+    "reference_max": 1038.453244081951,
+    "repeat_max_min_ratio": 1.3138314437637493
+  },
+  {
+    "subject": "S05",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 228.17607534882254,
+    "reference_max": 256.61216742780505,
+    "repeat_max_min_ratio": 1.1246234603496927
+  },
+  {
+    "subject": "S05",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 479.9716121720908,
+    "reference_max": 568.5051646502966,
+    "repeat_max_min_ratio": 1.1844558099541576
+  },
+  {
+    "subject": "S05",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 572.7705311661808,
+    "reference_max": 597.8885992421958,
+    "repeat_max_min_ratio": 1.0438536319682399
+  },
+  {
+    "subject": "S06",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 301.2977061603684,
+    "reference_max": 352.97439374295465,
+    "repeat_max_min_ratio": 1.171513710612456
+  },
+  {
+    "subject": "S06",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 137.73763943710395,
+    "reference_max": 247.15097351069434,
+    "repeat_max_min_ratio": 1.7943604560142947
+  },
+  {
+    "subject": "S06",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 128.80747538081613,
+    "reference_max": 155.16228739944128,
+    "repeat_max_min_ratio": 1.2046062306609753
+  },
+  {
+    "subject": "S06",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 131.9678893248961,
+    "reference_max": 170.86808343348264,
+    "repeat_max_min_ratio": 1.294770146795459
+  },
+  {
+    "subject": "S06",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 92.86957270968051,
+    "reference_max": 126.13401099379767,
+    "repeat_max_min_ratio": 1.3581844657356732
+  },
+  {
+    "subject": "S06",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 113.51695572112249,
+    "reference_max": 139.75533643940545,
+    "repeat_max_min_ratio": 1.231140630504071
+  },
+  {
+    "subject": "S06",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 152.8137672191607,
+    "reference_max": 193.7450191144432,
+    "repeat_max_min_ratio": 1.267850551950468
+  },
+  {
+    "subject": "S06",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 431.2070922822445,
+    "reference_max": 479.21497972386805,
+    "repeat_max_min_ratio": 1.111333714822576
+  },
+  {
+    "subject": "S06",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 73.31777974064288,
+    "reference_max": 111.08525611881304,
+    "repeat_max_min_ratio": 1.5151202956741228
+  },
+  {
+    "subject": "S06",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 270.3473004177963,
+    "reference_max": 309.29599959563205,
+    "repeat_max_min_ratio": 1.144069125593798
+  },
+  {
+    "subject": "S06",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 148.0089033939021,
+    "reference_max": 166.93788145235638,
+    "repeat_max_min_ratio": 1.1278908067312534
+  },
+  {
+    "subject": "S06",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 31.79681095093846,
+    "reference_max": 54.81775976253955,
+    "repeat_max_min_ratio": 1.7240018141165707
+  },
+  {
+    "subject": "S06",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 139.85920780880934,
+    "reference_max": 176.69592751937503,
+    "repeat_max_min_ratio": 1.2633843011675163
+  },
+  {
+    "subject": "S06",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 145.106275502074,
+    "reference_max": 151.89529045447875,
+    "repeat_max_min_ratio": 1.0467865013343804
+  },
+  {
+    "subject": "S06",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 135.36173786855477,
+    "reference_max": 184.93750155428532,
+    "repeat_max_min_ratio": 1.3662465070733054
+  },
+  {
+    "subject": "S06",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 459.9322597345473,
+    "reference_max": 491.94704612441365,
+    "repeat_max_min_ratio": 1.0696076122347753
+  },
+  {
+    "subject": "S07",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 258.1166414811696,
+    "reference_max": 301.5623238235403,
+    "repeat_max_min_ratio": 1.1683180212366904
+  },
+  {
+    "subject": "S07",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 315.66282455323915,
+    "reference_max": 371.68910826951225,
+    "repeat_max_min_ratio": 1.1774877475533194
+  },
+  {
+    "subject": "S07",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 183.27564175017363,
+    "reference_max": 199.436125088839,
+    "repeat_max_min_ratio": 1.0881758382311055
+  },
+  {
+    "subject": "S07",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 146.20111203735365,
+    "reference_max": 174.46601274476532,
+    "repeat_max_min_ratio": 1.1933289036829633
+  },
+  {
+    "subject": "S07",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 321.8354492601654,
+    "reference_max": 359.312781966993,
+    "repeat_max_min_ratio": 1.1164487404758563
+  },
+  {
+    "subject": "S07",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 242.16270109913953,
+    "reference_max": 249.24598194184952,
+    "repeat_max_min_ratio": 1.0292500901689652
+  },
+  {
+    "subject": "S07",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 1250.0619151660246,
+    "reference_max": 1440.820787254222,
+    "repeat_max_min_ratio": 1.1525995390899195
+  },
+  {
+    "subject": "S07",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 1366.8233517896929,
+    "reference_max": 1501.7021229240665,
+    "repeat_max_min_ratio": 1.0986804702727428
+  },
+  {
+    "subject": "S07",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 227.53375713313028,
+    "reference_max": 245.59980276074236,
+    "repeat_max_min_ratio": 1.0793994080493368
+  },
+  {
+    "subject": "S07",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 238.7435663083217,
+    "reference_max": 276.2234051740554,
+    "repeat_max_min_ratio": 1.1569878487001026
+  },
+  {
+    "subject": "S07",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 284.21907095045736,
+    "reference_max": 306.2904595867135,
+    "repeat_max_min_ratio": 1.0776562549530795
+  },
+  {
+    "subject": "S07",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 139.15393678538243,
+    "reference_max": 175.11253444594544,
+    "repeat_max_min_ratio": 1.2584087701091926
+  },
+  {
+    "subject": "S07",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 376.6981329230802,
+    "reference_max": 425.0892240629387,
+    "repeat_max_min_ratio": 1.1284611918948366
+  },
+  {
+    "subject": "S07",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 179.00303565845945,
+    "reference_max": 185.34722072468026,
+    "repeat_max_min_ratio": 1.035441773615089
+  },
+  {
+    "subject": "S07",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 859.9352044892653,
+    "reference_max": 982.5462326032412,
+    "repeat_max_min_ratio": 1.1425817055446605
+  },
+  {
+    "subject": "S07",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 1178.4506129528875,
+    "reference_max": 1317.161415051539,
+    "repeat_max_min_ratio": 1.117706079978251
+  },
+  {
+    "subject": "S08",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 75.26636586680162,
+    "reference_max": 102.50588669261114,
+    "repeat_max_min_ratio": 1.3619082775168807
+  },
+  {
+    "subject": "S08",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 204.67427145582982,
+    "reference_max": 219.02003427814702,
+    "repeat_max_min_ratio": 1.0700906993354713
+  },
+  {
+    "subject": "S08",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 206.51919115081114,
+    "reference_max": 217.7024943873236,
+    "repeat_max_min_ratio": 1.0541513995585323
+  },
+  {
+    "subject": "S08",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 84.70784392769377,
+    "reference_max": 106.51615083696488,
+    "repeat_max_min_ratio": 1.2574532168223593
+  },
+  {
+    "subject": "S08",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 82.76751196310228,
+    "reference_max": 114.25704164558412,
+    "repeat_max_min_ratio": 1.3804576087356577
+  },
+  {
+    "subject": "S08",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 219.2995496329835,
+    "reference_max": 242.22520355780082,
+    "repeat_max_min_ratio": 1.1045403602660624
+  },
+  {
+    "subject": "S08",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 153.21439964769596,
+    "reference_max": 251.98681510358642,
+    "repeat_max_min_ratio": 1.644667966477104
+  },
+  {
+    "subject": "S08",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 330.65570235352567,
+    "reference_max": 484.7272792020784,
+    "repeat_max_min_ratio": 1.465957719016818
+  },
+  {
+    "subject": "S08",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 145.35231552310424,
+    "reference_max": 158.51181628199686,
+    "repeat_max_min_ratio": 1.090535198641544
+  },
+  {
+    "subject": "S08",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 159.94905870354322,
+    "reference_max": 166.47993656107175,
+    "repeat_max_min_ratio": 1.0408309865057297
+  },
+  {
+    "subject": "S08",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 244.82697708899406,
+    "reference_max": 252.75148292815123,
+    "repeat_max_min_ratio": 1.0323677804357183
+  },
+  {
+    "subject": "S08",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 118.12832904392057,
+    "reference_max": 165.03997365444513,
+    "repeat_max_min_ratio": 1.3971244238381009
+  },
+  {
+    "subject": "S08",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 116.04006391988291,
+    "reference_max": 154.53777197133638,
+    "repeat_max_min_ratio": 1.33176220997287
+  },
+  {
+    "subject": "S08",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 176.23090319099967,
+    "reference_max": 187.05669363087154,
+    "repeat_max_min_ratio": 1.0614295804189282
+  },
+  {
+    "subject": "S08",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 149.23523429329313,
+    "reference_max": 181.39028530903323,
+    "repeat_max_min_ratio": 1.2154655445010092
+  },
+  {
+    "subject": "S08",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 303.53572277824844,
+    "reference_max": 420.9513861124823,
+    "repeat_max_min_ratio": 1.3868265068095897
+  },
+  {
+    "subject": "S09",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 44.019672336520394,
+    "reference_max": 59.39530680208486,
+    "repeat_max_min_ratio": 1.3492900707670252
+  },
+  {
+    "subject": "S09",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 119.45114692471552,
+    "reference_max": 130.36557033663092,
+    "repeat_max_min_ratio": 1.091371440902064
+  },
+  {
+    "subject": "S09",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 126.3858723953705,
+    "reference_max": 127.44248650746609,
+    "repeat_max_min_ratio": 1.0083602232755113
+  },
+  {
+    "subject": "S09",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 39.71826342351902,
+    "reference_max": 58.99443936425083,
+    "repeat_max_min_ratio": 1.4853227276124439
+  },
+  {
+    "subject": "S09",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 173.38667948393234,
+    "reference_max": 212.56269199885705,
+    "repeat_max_min_ratio": 1.225945918288118
+  },
+  {
+    "subject": "S09",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 164.65981433945092,
+    "reference_max": 175.20354278093097,
+    "repeat_max_min_ratio": 1.0640334041658996
+  },
+  {
+    "subject": "S09",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 67.86416193803592,
+    "reference_max": 81.86208338021574,
+    "repeat_max_min_ratio": 1.206263822353848
+  },
+  {
+    "subject": "S09",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 249.84270592214563,
+    "reference_max": 272.9808690156353,
+    "repeat_max_min_ratio": 1.0926109209716126
+  },
+  {
+    "subject": "S09",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 212.25309364434412,
+    "reference_max": 284.4128644024131,
+    "repeat_max_min_ratio": 1.3399704075879406
+  },
+  {
+    "subject": "S09",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 121.77529811459763,
+    "reference_max": 136.3764548554365,
+    "repeat_max_min_ratio": 1.1199024512105757
+  },
+  {
+    "subject": "S09",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 155.34749905495815,
+    "reference_max": 170.68612551528273,
+    "repeat_max_min_ratio": 1.0987375178463488
+  },
+  {
+    "subject": "S09",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 153.30579728583305,
+    "reference_max": 172.423697999764,
+    "repeat_max_min_ratio": 1.1247043559499992
+  },
+  {
+    "subject": "S09",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 154.69426984995408,
+    "reference_max": 186.89256444764067,
+    "repeat_max_min_ratio": 1.2081414820918537
+  },
+  {
+    "subject": "S09",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 197.27269902101398,
+    "reference_max": 228.42458152253806,
+    "repeat_max_min_ratio": 1.1579127910558253
+  },
+  {
+    "subject": "S09",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 122.56747257357391,
+    "reference_max": 123.6334398050065,
+    "repeat_max_min_ratio": 1.0086969830498278
+  },
+  {
+    "subject": "S09",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 351.52423911343635,
+    "reference_max": 422.6248032527528,
+    "repeat_max_min_ratio": 1.2022636172078376
+  },
+  {
+    "subject": "S10",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 58.744535501022824,
+    "reference_max": 58.77327764597449,
+    "repeat_max_min_ratio": 1.000489273507851
+  },
+  {
+    "subject": "S10",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 182.80297243771344,
+    "reference_max": 183.72482947401434,
+    "repeat_max_min_ratio": 1.0050428995984462
+  },
+  {
+    "subject": "S10",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 192.01854021231244,
+    "reference_max": 194.502332608659,
+    "repeat_max_min_ratio": 1.0129351696643474
+  },
+  {
+    "subject": "S10",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 54.738546322472054,
+    "reference_max": 54.96502409501166,
+    "repeat_max_min_ratio": 1.0041374458723362
+  },
+  {
+    "subject": "S10",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 174.96500867756927,
+    "reference_max": 178.2546123310834,
+    "repeat_max_min_ratio": 1.0188014945295507
+  },
+  {
+    "subject": "S10",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 155.4470301482881,
+    "reference_max": 158.1887668516146,
+    "repeat_max_min_ratio": 1.0176377554509148
+  },
+  {
+    "subject": "S10",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 349.49538074705345,
+    "reference_max": 447.3612373963202,
+    "repeat_max_min_ratio": 1.280020458181955
+  },
+  {
+    "subject": "S10",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 274.4320727841249,
+    "reference_max": 415.25837732402533,
+    "repeat_max_min_ratio": 1.5131554162427578
+  },
+  {
+    "subject": "S10",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 70.16007243818953,
+    "reference_max": 84.83835044538509,
+    "repeat_max_min_ratio": 1.209211272125282
+  },
+  {
+    "subject": "S10",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 203.5355121470552,
+    "reference_max": 225.05357376375997,
+    "repeat_max_min_ratio": 1.1057214114122644
+  },
+  {
+    "subject": "S10",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 167.35206710844085,
+    "reference_max": 177.0021321340988,
+    "repeat_max_min_ratio": 1.0576632556286556
+  },
+  {
+    "subject": "S10",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 67.14518356709142,
+    "reference_max": 73.87017925739508,
+    "repeat_max_min_ratio": 1.1001560399873513
+  },
+  {
+    "subject": "S10",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 201.80420795534255,
+    "reference_max": 222.7592999731532,
+    "repeat_max_min_ratio": 1.1038387268041894
+  },
+  {
+    "subject": "S10",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 152.86325395724523,
+    "reference_max": 157.21919097911564,
+    "repeat_max_min_ratio": 1.028495645023288
+  },
+  {
+    "subject": "S10",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 138.34313355260505,
+    "reference_max": 167.02877420781616,
+    "repeat_max_min_ratio": 1.2073513872251807
+  },
+  {
+    "subject": "S10",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 365.02029321790667,
+    "reference_max": 417.5631035910684,
+    "repeat_max_min_ratio": 1.1439449021038268
+  },
+  {
+    "subject": "S11",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 94.63077508506728,
+    "reference_max": 118.38549223985693,
+    "repeat_max_min_ratio": 1.251025283618734
+  },
+  {
+    "subject": "S11",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 645.3216293984822,
+    "reference_max": 700.5400951807965,
+    "repeat_max_min_ratio": 1.0855673562867938
+  },
+  {
+    "subject": "S11",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 691.7992576934485,
+    "reference_max": 732.717962963282,
+    "repeat_max_min_ratio": 1.059148235293374
+  },
+  {
+    "subject": "S11",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 91.4260025063148,
+    "reference_max": 97.92503372213827,
+    "repeat_max_min_ratio": 1.0710851512443036
+  },
+  {
+    "subject": "S11",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 1454.2478020273943,
+    "reference_max": 1553.4667566102853,
+    "repeat_max_min_ratio": 1.0682269929819168
+  },
+  {
+    "subject": "S11",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 281.23913405035853,
+    "reference_max": 304.1235981494073,
+    "repeat_max_min_ratio": 1.0813701271564544
+  },
+  {
+    "subject": "S11",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 667.7285676256046,
+    "reference_max": 721.727436239895,
+    "repeat_max_min_ratio": 1.0808694898382236
+  },
+  {
+    "subject": "S11",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 783.650994080285,
+    "reference_max": 873.5742611952223,
+    "repeat_max_min_ratio": 1.1147491265808624
+  },
+  {
+    "subject": "S11",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 132.88583795126294,
+    "reference_max": 161.47218659241153,
+    "repeat_max_min_ratio": 1.2151196025240318
+  },
+  {
+    "subject": "S11",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 484.56142714703435,
+    "reference_max": 584.9256969676778,
+    "repeat_max_min_ratio": 1.2071239355793566
+  },
+  {
+    "subject": "S11",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 390.6766003562111,
+    "reference_max": 412.4924917472124,
+    "repeat_max_min_ratio": 1.0558413054969507
+  },
+  {
+    "subject": "S11",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 140.9406130608343,
+    "reference_max": 149.4122617316128,
+    "repeat_max_min_ratio": 1.060107931183199
+  },
+  {
+    "subject": "S11",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 286.10849565026945,
+    "reference_max": 329.42646816762084,
+    "repeat_max_min_ratio": 1.1514040064378306
+  },
+  {
+    "subject": "S11",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 390.36843087290555,
+    "reference_max": 1137.8714302064745,
+    "repeat_max_min_ratio": 2.914865394371344
+  },
+  {
+    "subject": "S11",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 389.2898641732251,
+    "reference_max": 473.30451116119724,
+    "repeat_max_min_ratio": 1.2158151411581257
+  },
+  {
+    "subject": "S11",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 767.5591034081642,
+    "reference_max": 838.0515030961984,
+    "repeat_max_min_ratio": 1.0918397024737632
+  },
+  {
+    "subject": "S12",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 100.76595418078517,
+    "reference_max": 106.49028366613749,
+    "repeat_max_min_ratio": 1.0568081702980974
+  },
+  {
+    "subject": "S12",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 231.50490089151864,
+    "reference_max": 235.8977324313379,
+    "repeat_max_min_ratio": 1.0189751125047573
+  },
+  {
+    "subject": "S12",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 180.75404894374404,
+    "reference_max": 186.23505337259567,
+    "repeat_max_min_ratio": 1.0303229966956784
+  },
+  {
+    "subject": "S12",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 66.34212113374878,
+    "reference_max": 79.21111617043029,
+    "repeat_max_min_ratio": 1.1939792520461778
+  },
+  {
+    "subject": "S12",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 71.96213908865474,
+    "reference_max": 107.05894190665431,
+    "repeat_max_min_ratio": 1.487712056123868
+  },
+  {
+    "subject": "S12",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 97.19999707954233,
+    "reference_max": 99.36380292109719,
+    "repeat_max_min_ratio": 1.0222613776395912
+  },
+  {
+    "subject": "S12",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 77.99210786067441,
+    "reference_max": 79.18002063503467,
+    "repeat_max_min_ratio": 1.0152311920647452
+  },
+  {
+    "subject": "S12",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 117.47725313941008,
+    "reference_max": 120.64055761520646,
+    "repeat_max_min_ratio": 1.0269269530165341
+  },
+  {
+    "subject": "S12",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 38.96991612146958,
+    "reference_max": 63.01655716670195,
+    "repeat_max_min_ratio": 1.6170565256101341
+  },
+  {
+    "subject": "S12",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 277.05525458935483,
+    "reference_max": 335.7210348016297,
+    "repeat_max_min_ratio": 1.211747581901047
+  },
+  {
+    "subject": "S12",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 120.48019183389955,
+    "reference_max": 134.053735504455,
+    "repeat_max_min_ratio": 1.1126620356752808
+  },
+  {
+    "subject": "S12",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 42.39087789909122,
+    "reference_max": 58.00444841875893,
+    "repeat_max_min_ratio": 1.3683238303494167
+  },
+  {
+    "subject": "S12",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 112.01226828958661,
+    "reference_max": 136.67409846882688,
+    "repeat_max_min_ratio": 1.220170795180058
+  },
+  {
+    "subject": "S12",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 87.45682200178429,
+    "reference_max": 107.81406661400773,
+    "repeat_max_min_ratio": 1.232769087033692
+  },
+  {
+    "subject": "S12",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 95.28836746346809,
+    "reference_max": 95.70523210383436,
+    "repeat_max_min_ratio": 1.0043747694651826
+  },
+  {
+    "subject": "S12",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 203.30746509256932,
+    "reference_max": 216.65001211399493,
+    "repeat_max_min_ratio": 1.0656274328901327
+  },
+  {
+    "subject": "S13",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 64.50612665469173,
+    "reference_max": 76.79321101319641,
+    "repeat_max_min_ratio": 1.1904793388739456
+  },
+  {
+    "subject": "S13",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 275.4756974995965,
+    "reference_max": 312.80336224846764,
+    "repeat_max_min_ratio": 1.1355025691474139
+  },
+  {
+    "subject": "S13",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 162.6392236610969,
+    "reference_max": 178.72740431069775,
+    "repeat_max_min_ratio": 1.0989194382969076
+  },
+  {
+    "subject": "S13",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 47.91792583109603,
+    "reference_max": 64.80799508918626,
+    "repeat_max_min_ratio": 1.3524791393856521
+  },
+  {
+    "subject": "S13",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 74.51386356315241,
+    "reference_max": 89.40412343670944,
+    "repeat_max_min_ratio": 1.1998320736776338
+  },
+  {
+    "subject": "S13",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 107.43636915674368,
+    "reference_max": 123.81984797427492,
+    "repeat_max_min_ratio": 1.1524947180002767
+  },
+  {
+    "subject": "S13",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 117.82601275707587,
+    "reference_max": 204.2958413694879,
+    "repeat_max_min_ratio": 1.733877236350928
+  },
+  {
+    "subject": "S13",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 280.38575387255304,
+    "reference_max": 425.16200455143763,
+    "repeat_max_min_ratio": 1.516346671253103
+  },
+  {
+    "subject": "S13",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 77.30359898253167,
+    "reference_max": 83.47417953430636,
+    "repeat_max_min_ratio": 1.0798226813885996
+  },
+  {
+    "subject": "S13",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 202.53996186617786,
+    "reference_max": 210.34103627559165,
+    "repeat_max_min_ratio": 1.038516223354323
+  },
+  {
+    "subject": "S13",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 140.1140486122779,
+    "reference_max": 140.99257105545576,
+    "repeat_max_min_ratio": 1.006270052517067
+  },
+  {
+    "subject": "S13",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 78.54409252178465,
+    "reference_max": 109.57694140269689,
+    "repeat_max_min_ratio": 1.395100992124966
+  },
+  {
+    "subject": "S13",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 96.20407577612973,
+    "reference_max": 99.30094188675797,
+    "repeat_max_min_ratio": 1.0321905915694753
+  },
+  {
+    "subject": "S13",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 80.99407293461095,
+    "reference_max": 116.50557669711944,
+    "repeat_max_min_ratio": 1.4384457093691045
+  },
+  {
+    "subject": "S13",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 139.33476031785798,
+    "reference_max": 240.0036630035519,
+    "repeat_max_min_ratio": 1.7224966867997804
+  },
+  {
+    "subject": "S13",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 216.38995317508227,
+    "reference_max": 338.39260222147715,
+    "repeat_max_min_ratio": 1.563809212286681
+  },
+  {
+    "subject": "S14",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 127.19483201686785,
+    "reference_max": 128.9993212379226,
+    "repeat_max_min_ratio": 1.01418681240772
+  },
+  {
+    "subject": "S14",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 643.3333673767061,
+    "reference_max": 774.5428397127904,
+    "repeat_max_min_ratio": 1.203952536880081
+  },
+  {
+    "subject": "S14",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 160.97197174769957,
+    "reference_max": 180.5156783649869,
+    "repeat_max_min_ratio": 1.1214106182902406
+  },
+  {
+    "subject": "S14",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 115.4349308256166,
+    "reference_max": 115.46582679139642,
+    "repeat_max_min_ratio": 1.000267648324115
+  },
+  {
+    "subject": "S14",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 141.86952910838323,
+    "reference_max": 141.86952910838323,
+    "repeat_max_min_ratio": 1.0
+  },
+  {
+    "subject": "S14",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 208.91916180567776,
+    "reference_max": 254.721455177124,
+    "repeat_max_min_ratio": 1.2192345258117032
+  },
+  {
+    "subject": "S14",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 140.14691924207537,
+    "reference_max": 158.0845658122511,
+    "repeat_max_min_ratio": 1.1279917294449555
+  },
+  {
+    "subject": "S14",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 190.35941846861954,
+    "reference_max": 244.09650206755987,
+    "repeat_max_min_ratio": 1.2822927493225076
+  },
+  {
+    "subject": "S14",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 227.6471558181072,
+    "reference_max": 281.56897091529015,
+    "repeat_max_min_ratio": 1.2368657535096426
+  },
+  {
+    "subject": "S14",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 352.4251970582698,
+    "reference_max": 453.2192611998416,
+    "repeat_max_min_ratio": 1.2860012989505587
+  },
+  {
+    "subject": "S14",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 238.4939349781636,
+    "reference_max": 280.15654236057526,
+    "repeat_max_min_ratio": 1.1746904271851872
+  },
+  {
+    "subject": "S14",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 60.453966565412216,
+    "reference_max": 97.96631470551064,
+    "repeat_max_min_ratio": 1.6205109485993683
+  },
+  {
+    "subject": "S14",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 148.38902756954687,
+    "reference_max": 148.38902756954687,
+    "repeat_max_min_ratio": 1.0
+  },
+  {
+    "subject": "S14",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 200.81115285048247,
+    "reference_max": 209.03744370836958,
+    "repeat_max_min_ratio": 1.0409653086550035
+  },
+  {
+    "subject": "S14",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 99.5571392760931,
+    "reference_max": 124.4579863038945,
+    "repeat_max_min_ratio": 1.2501161364103288
+  },
+  {
+    "subject": "S14",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 160.8390816836688,
+    "reference_max": 193.27607072442768,
+    "repeat_max_min_ratio": 1.201673552852997
+  },
+  {
+    "subject": "S15",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 95.84861461072121,
+    "reference_max": 96.04500111580536,
+    "repeat_max_min_ratio": 1.0020489237729908
+  },
+  {
+    "subject": "S15",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 125.47966106261714,
+    "reference_max": 158.72707998916937,
+    "repeat_max_min_ratio": 1.2649626134227525
+  },
+  {
+    "subject": "S15",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 137.50227526874187,
+    "reference_max": 139.7099259083878,
+    "repeat_max_min_ratio": 1.0160553753407437
+  },
+  {
+    "subject": "S15",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 76.14759338211607,
+    "reference_max": 91.20113360100565,
+    "repeat_max_min_ratio": 1.1976889820187677
+  },
+  {
+    "subject": "S15",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 124.62746848688252,
+    "reference_max": 142.3173644376453,
+    "repeat_max_min_ratio": 1.1419421911199672
+  },
+  {
+    "subject": "S15",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 101.60550429215083,
+    "reference_max": 104.3597152647527,
+    "repeat_max_min_ratio": 1.0271069071679677
+  },
+  {
+    "subject": "S15",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 156.96195644614227,
+    "reference_max": 162.82099817871827,
+    "repeat_max_min_ratio": 1.037327782255227
+  },
+  {
+    "subject": "S15",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 290.5895359192876,
+    "reference_max": 327.6807485802679,
+    "repeat_max_min_ratio": 1.1276412536454257
+  },
+  {
+    "subject": "S15",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 45.15896334796573,
+    "reference_max": 111.45160025307341,
+    "repeat_max_min_ratio": 2.467984027762098
+  },
+  {
+    "subject": "S15",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 129.01768186410055,
+    "reference_max": 159.5552522159256,
+    "repeat_max_min_ratio": 1.2366929083719818
+  },
+  {
+    "subject": "S15",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 184.48390749449007,
+    "reference_max": 186.76839237850396,
+    "repeat_max_min_ratio": 1.0123831119745885
+  },
+  {
+    "subject": "S15",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 53.19999435908961,
+    "reference_max": 56.85969764062654,
+    "repeat_max_min_ratio": 1.068791422360586
+  },
+  {
+    "subject": "S15",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 206.77018161466052,
+    "reference_max": 213.46233006564316,
+    "repeat_max_min_ratio": 1.0323651524544009
+  },
+  {
+    "subject": "S15",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 128.21903238430377,
+    "reference_max": 132.59019527686064,
+    "repeat_max_min_ratio": 1.0340913732639583
+  },
+  {
+    "subject": "S15",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 129.75641242695292,
+    "reference_max": 150.87798504033273,
+    "repeat_max_min_ratio": 1.1627786420595616
+  },
+  {
+    "subject": "S15",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 227.5111576381278,
+    "reference_max": 254.23048741375734,
+    "repeat_max_min_ratio": 1.1174418435254436
+  },
+  {
+    "subject": "S16",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 172.25033196412227,
+    "reference_max": 183.3986943918488,
+    "repeat_max_min_ratio": 1.0647218632359363
+  },
+  {
+    "subject": "S16",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 512.8850966710828,
+    "reference_max": 569.2219152430142,
+    "repeat_max_min_ratio": 1.1098429627563553
+  },
+  {
+    "subject": "S16",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 275.2788590076674,
+    "reference_max": 292.5904900189163,
+    "repeat_max_min_ratio": 1.0628876153935478
+  },
+  {
+    "subject": "S16",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 88.03124517667264,
+    "reference_max": 146.95031210000562,
+    "repeat_max_min_ratio": 1.6692972115194606
+  },
+  {
+    "subject": "S16",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 91.13471022353116,
+    "reference_max": 120.37926493464754,
+    "repeat_max_min_ratio": 1.3208937038301503
+  },
+  {
+    "subject": "S16",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 286.85785084704906,
+    "reference_max": 349.0470790591132,
+    "repeat_max_min_ratio": 1.2167945832001057
+  },
+  {
+    "subject": "S16",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 409.1908367878804,
+    "reference_max": 498.6794046608262,
+    "repeat_max_min_ratio": 1.2186964121079171
+  },
+  {
+    "subject": "S16",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 809.8534104132756,
+    "reference_max": 915.0692015439577,
+    "repeat_max_min_ratio": 1.1299195505974218
+  },
+  {
+    "subject": "S16",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 238.59971630378908,
+    "reference_max": 271.70174391361104,
+    "repeat_max_min_ratio": 1.1387345639911655
+  },
+  {
+    "subject": "S16",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 563.3104525864038,
+    "reference_max": 661.3273600607874,
+    "repeat_max_min_ratio": 1.1740015776812684
+  },
+  {
+    "subject": "S16",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 249.1644085788308,
+    "reference_max": 281.0759637830267,
+    "repeat_max_min_ratio": 1.1280742919352371
+  },
+  {
+    "subject": "S16",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 83.89761347727537,
+    "reference_max": 87.81789311987207,
+    "repeat_max_min_ratio": 1.0467269506260575
+  },
+  {
+    "subject": "S16",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 159.20596680750512,
+    "reference_max": 168.94316274537218,
+    "repeat_max_min_ratio": 1.0611609987560342
+  },
+  {
+    "subject": "S16",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 308.7628226098205,
+    "reference_max": 341.3902706332945,
+    "repeat_max_min_ratio": 1.1056715563994726
+  },
+  {
+    "subject": "S16",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 161.72349148091874,
+    "reference_max": 213.79756530693265,
+    "repeat_max_min_ratio": 1.321994494115643
+  },
+  {
+    "subject": "S16",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 492.67621148092104,
+    "reference_max": 578.1455741136126,
+    "repeat_max_min_ratio": 1.173479783762609
+  },
+  {
+    "subject": "S17",
+    "channel": "LEO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 59.46606300142866,
+    "reference_max": 70.66893394824257,
+    "repeat_max_min_ratio": 1.1883909978460279
+  },
+  {
+    "subject": "S17",
+    "channel": "LESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 108.01836050151365,
+    "reference_max": 134.96426452494484,
+    "repeat_max_min_ratio": 1.249456702530248
+  },
+  {
+    "subject": "S17",
+    "channel": "LESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 41.594249254870135,
+    "reference_max": 51.339506729887006,
+    "repeat_max_min_ratio": 1.23429338549429
+  },
+  {
+    "subject": "S17",
+    "channel": "LIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 47.00826506685298,
+    "reference_max": 55.563065287175,
+    "repeat_max_min_ratio": 1.181985023445468
+  },
+  {
+    "subject": "S17",
+    "channel": "LLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 83.57231645548471,
+    "reference_max": 118.81987855228746,
+    "repeat_max_min_ratio": 1.4217612194054423
+  },
+  {
+    "subject": "S17",
+    "channel": "LM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 28.949282343713985,
+    "reference_max": 38.6272158137399,
+    "repeat_max_min_ratio": 1.3343065073296152
+  },
+  {
+    "subject": "S17",
+    "channel": "LRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 119.04101226309277,
+    "reference_max": 121.57408252108401,
+    "repeat_max_min_ratio": 1.0212789710859724
+  },
+  {
+    "subject": "S17",
+    "channel": "LRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 196.13599905858203,
+    "reference_max": 267.4668399439965,
+    "repeat_max_min_ratio": 1.3636805136629166
+  },
+  {
+    "subject": "S17",
+    "channel": "REO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 62.96744900410758,
+    "reference_max": 73.65846827882052,
+    "repeat_max_min_ratio": 1.1697864443264254
+  },
+  {
+    "subject": "S17",
+    "channel": "RESI",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 88.29523936801394,
+    "reference_max": 99.55549020548344,
+    "repeat_max_min_ratio": 1.1275295352055943
+  },
+  {
+    "subject": "S17",
+    "channel": "RESL",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 127.07028562079255,
+    "reference_max": 137.26987948243007,
+    "repeat_max_min_ratio": 1.0802673403290797
+  },
+  {
+    "subject": "S17",
+    "channel": "RIO",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 54.413225420117435,
+    "reference_max": 58.663517466938075,
+    "repeat_max_min_ratio": 1.0781113785114682
+  },
+  {
+    "subject": "S17",
+    "channel": "RLD",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 116.3439746042471,
+    "reference_max": 162.67048066668198,
+    "repeat_max_min_ratio": 1.3981856922115479
+  },
+  {
+    "subject": "S17",
+    "channel": "RM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 69.6091608543041,
+    "reference_max": 88.47223660684256,
+    "repeat_max_min_ratio": 1.2709855358265265
+  },
+  {
+    "subject": "S17",
+    "channel": "RRAM",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 120.06818684266975,
+    "reference_max": 134.65160106888146,
+    "repeat_max_min_ratio": 1.1214594357564587
+  },
+  {
+    "subject": "S17",
+    "channel": "RRAS",
+    "reference_entries": 2,
+    "positive_diagnostic_references": 2,
+    "reference_min": 103.59561212129323,
+    "reference_max": 118.93396827241337,
+    "repeat_max_min_ratio": 1.1480599017375512
+  }
+]

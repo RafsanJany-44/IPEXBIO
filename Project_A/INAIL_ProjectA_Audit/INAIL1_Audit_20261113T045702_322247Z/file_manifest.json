@@ -1,0 +1,962 @@
+[
+  {
+    "relative_path": ".DS_Store",
+    "extension": "",
+    "bytes": 14340
+  },
+  {
+    "relative_path": "S01/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S01/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S01/Exported/mat_format/S01_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 29401843
+  },
+  {
+    "relative_path": "S01/Proprietary/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI1_1.TDF",
+    "extension": ".tdf",
+    "bytes": 3126268
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI1_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2101716
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI1_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2101716
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI2_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1355948
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI2_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1666780
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI2_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1900928
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI3.TDF",
+    "extension": ".tdf",
+    "bytes": 2274812
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI3_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2530808
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI3_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2296800
+  },
+  {
+    "relative_path": "S010/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S010/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S010/Exported/mat_format/S10_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 31144459
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI1_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2578948
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI1_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1941428
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI1_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1994132
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI2_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2118812
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI2_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2111708
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI2_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2072164
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI3_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2361924
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI3_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1900696
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI3_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1909144
+  },
+  {
+    "relative_path": "S011/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S011/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S011/Exported/mat_format/S11_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 18340590
+  },
+  {
+    "relative_path": "S011/Proprietary/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI1S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1440252
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI1S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1511256
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI1S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1363208
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI2S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1974976
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI2S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1974976
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI2S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2091592
+  },
+  {
+    "relative_path": "S012/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S012/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S012/Exported/mat_format/S12_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 16605001
+  },
+  {
+    "relative_path": "S012/Proprietary/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI1S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1692992
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI1S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1721000
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI1S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1941460
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI2S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1543184
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI2S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1589556
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI2S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1686368
+  },
+  {
+    "relative_path": "S013/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S013/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S013/Exported/mat_format/S13_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 17541073
+  },
+  {
+    "relative_path": "S013/Proprietary/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI1S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1487880
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI1S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1772712
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI1S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1633764
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI2S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1493672
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI2S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1620404
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI2S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1700032
+  },
+  {
+    "relative_path": "S014/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S014/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S014/Exported/mat_format/S14_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 19322963
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI1S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1719708
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI1S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1690632
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI1S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1510532
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI2S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1966996
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI2S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1966996
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI2S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2103548
+  },
+  {
+    "relative_path": "S015/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S015/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S015/Exported/mat_format/S15_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 20586015
+  },
+  {
+    "relative_path": "S015/Proprietary/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI1S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1767400
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI1S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1573256
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI1S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1894708
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI2S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2319572
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI2S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2034144
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI2S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1970348
+  },
+  {
+    "relative_path": "S016/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S016/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S016/Exported/mat_format/S16_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 19443075
+  },
+  {
+    "relative_path": "S016/Proprietary/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI1S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2273696
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI1S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1988016
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI1S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1842760
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI2S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1543184
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI2S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1656684
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI2S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2005872
+  },
+  {
+    "relative_path": "S017/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S017/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S017/Exported/mat_format/S17_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 21995299
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI1S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2211476
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI1S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1852172
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI1S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2047964
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI2S_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2624628
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI2S_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2444216
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI2S_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2201452
+  },
+  {
+    "relative_path": "S02/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S02/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S02/Exported/mat_format/S02_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 27572975
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI1_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1555700
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI1_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1955064
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI1_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1820044
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI2_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1847880
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI2_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2336132
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI2_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2235432
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI3_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1414460
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI3_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1814232
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI3_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1978484
+  },
+  {
+    "relative_path": "S03/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S03/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S03/Exported/mat_format/S03_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 25839487
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI1_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1546932
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI1_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2194248
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI1_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1560728
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI2_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1648956
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI2_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2115096
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI2_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1577840
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI3_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1800472
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI3_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1782112
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI3_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1851820
+  },
+  {
+    "relative_path": "S04/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S04/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S04/Exported/mat_format/S04_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 29222915
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI1_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1815044
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI1_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1929292
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI1_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1839624
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI2_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2643372
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI2_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1786124
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI2_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2207696
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI3_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2666524
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI3_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2627620
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI3_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2627620
+  },
+  {
+    "relative_path": "S05/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S05/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S05/Exported/mat_format/S05_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 24613336
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI1_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1955880
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI1_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1659044
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI1_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1278216
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI2_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1485060
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI2_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1630324
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI2_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1266948
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI3_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1780964
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI3_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1695880
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI3_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1695880
+  },
+  {
+    "relative_path": "S06/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S06/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S06/Exported/mat_format/S06_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 29128217
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI1_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2194328
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI1_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1923364
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI1_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1226788
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI2_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1782472
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI2_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2060396
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI2_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1987932
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI3_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2385356
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI3_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1933656
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI3_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2261440
+  },
+  {
+    "relative_path": "S07/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S07/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S07/Exported/mat_format/S07_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 25187090
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI1_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2031696
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI1_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1211092
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI1_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1284756
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI2_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1403848
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI2_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1239024
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI2_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1590768
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI3_1.TDF",
+    "extension": ".tdf",
+    "bytes": 1977348
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI3_2.TDF",
+    "extension": ".tdf",
+    "bytes": 1774064
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI3_3.TDF",
+    "extension": ".tdf",
+    "bytes": 1837316
+  },
+  {
+    "relative_path": "S08/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S08/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S08/Exported/mat_format/S08_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 39785623
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI1_1.TDF",
+    "extension": ".tdf",
+    "bytes": 3987712
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI1_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2647288
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI1_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2313864
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI2_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2463272
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI2_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2671200
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI2_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2179404
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI3_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2683612
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI3_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2690656
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI3_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2710156
+  },
+  {
+    "relative_path": "S09/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S09/Exported/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S09/Exported/mat_format/S09_all_trials.mat",
+    "extension": ".mat",
+    "bytes": 38534845
+  },
+  {
+    "relative_path": "S09/Proprietary/.DS_Store",
+    "extension": "",
+    "bytes": 6148
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI1_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2557312
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI1_2.TDF",
+    "extension": ".tdf",
+    "bytes": 3676832
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI1_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2396952
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI2_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2673624
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI2_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2619896
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI2_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2341996
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI3_1.TDF",
+    "extension": ".tdf",
+    "bytes": 2637020
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI3_2.TDF",
+    "extension": ".tdf",
+    "bytes": 2300732
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI3_3.TDF",
+    "extension": ".tdf",
+    "bytes": 2300732
+  },
+  {
+    "relative_path": "Subjects_info.xlsx",
+    "extension": ".xlsx",
+    "bytes": 9310
+  }
+]

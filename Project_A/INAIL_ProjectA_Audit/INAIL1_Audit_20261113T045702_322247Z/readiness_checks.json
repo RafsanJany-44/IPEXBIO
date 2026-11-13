@@ -1,0 +1,47 @@
+[
+  {
+    "check": "Advertised cohort",
+    "observed": "17/17 participant IDs loaded",
+    "status": "observed_complete_count"
+  },
+  {
+    "check": "Movement and EMG task matches",
+    "observed": "132",
+    "status": "candidates_pending_timing_and_QC"
+  },
+  {
+    "check": "Exact duplicate rows",
+    "observed": "38",
+    "status": "review_and_group_or_retain_one"
+  },
+  {
+    "check": "Task participant mismatch",
+    "observed": "0",
+    "status": "none_detected"
+  },
+  {
+    "check": "Signal flag rows",
+    "observed": "41",
+    "status": "channel_specific_review"
+  },
+  {
+    "check": "Event semantics and clock alignment",
+    "observed": "No verified common time origin supplied",
+    "status": "unresolved"
+  },
+  {
+    "check": "MVC physiological validity",
+    "observed": "Availability and diagnostic RMS only",
+    "status": "unresolved"
+  },
+  {
+    "check": "Participant descriptors",
+    "observed": "1 workbook sheets extracted",
+    "status": "verify_headers_units_and_ID_mapping"
+  },
+  {
+    "check": "Within-condition added predictive value",
+    "observed": "Requires later worker-separated modelling",
+    "status": "not_tested"
+  }
+]

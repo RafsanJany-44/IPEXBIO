@@ -1,0 +1,308 @@
+[
+  {
+    "subject": "S01",
+    "group": "Ground_forces_and_moments",
+    "entries": 9,
+    "distinct_nonempty_recordings": 7
+  },
+  {
+    "subject": "S01",
+    "group": "Kinematic_data",
+    "entries": 9,
+    "distinct_nonempty_recordings": 8
+  },
+  {
+    "subject": "S01",
+    "group": "sEMG",
+    "entries": 9,
+    "distinct_nonempty_recordings": 8
+  },
+  {
+    "subject": "S02",
+    "group": "Ground_forces_and_moments",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S02",
+    "group": "Kinematic_data",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S02",
+    "group": "sEMG",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S03",
+    "group": "Ground_forces_and_moments",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S03",
+    "group": "Kinematic_data",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S03",
+    "group": "sEMG",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S04",
+    "group": "Ground_forces_and_moments",
+    "entries": 9,
+    "distinct_nonempty_recordings": 8
+  },
+  {
+    "subject": "S04",
+    "group": "Kinematic_data",
+    "entries": 9,
+    "distinct_nonempty_recordings": 8
+  },
+  {
+    "subject": "S04",
+    "group": "sEMG",
+    "entries": 9,
+    "distinct_nonempty_recordings": 8
+  },
+  {
+    "subject": "S05",
+    "group": "Ground_forces_and_moments",
+    "entries": 9,
+    "distinct_nonempty_recordings": 5
+  },
+  {
+    "subject": "S05",
+    "group": "Kinematic_data",
+    "entries": 9,
+    "distinct_nonempty_recordings": 8
+  },
+  {
+    "subject": "S05",
+    "group": "sEMG",
+    "entries": 9,
+    "distinct_nonempty_recordings": 8
+  },
+  {
+    "subject": "S06",
+    "group": "Ground_forces_and_moments",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S06",
+    "group": "Kinematic_data",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S06",
+    "group": "sEMG",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S07",
+    "group": "Ground_forces_and_moments",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S07",
+    "group": "Kinematic_data",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S07",
+    "group": "sEMG",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S08",
+    "group": "Ground_forces_and_moments",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S08",
+    "group": "Kinematic_data",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S08",
+    "group": "sEMG",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S09",
+    "group": "Ground_forces_and_moments",
+    "entries": 9,
+    "distinct_nonempty_recordings": 8
+  },
+  {
+    "subject": "S09",
+    "group": "Kinematic_data",
+    "entries": 9,
+    "distinct_nonempty_recordings": 8
+  },
+  {
+    "subject": "S09",
+    "group": "sEMG",
+    "entries": 9,
+    "distinct_nonempty_recordings": 8
+  },
+  {
+    "subject": "S10",
+    "group": "Ground_forces_and_moments",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S10",
+    "group": "Kinematic_data",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S10",
+    "group": "sEMG",
+    "entries": 9,
+    "distinct_nonempty_recordings": 9
+  },
+  {
+    "subject": "S11",
+    "group": "Ground_forces_and_moments",
+    "entries": 6,
+    "distinct_nonempty_recordings": 5
+  },
+  {
+    "subject": "S11",
+    "group": "Kinematic_data",
+    "entries": 6,
+    "distinct_nonempty_recordings": 5
+  },
+  {
+    "subject": "S11",
+    "group": "sEMG",
+    "entries": 6,
+    "distinct_nonempty_recordings": 5
+  },
+  {
+    "subject": "S12",
+    "group": "Ground_forces_and_moments",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S12",
+    "group": "Kinematic_data",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S12",
+    "group": "sEMG",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S13",
+    "group": "Ground_forces_and_moments",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S13",
+    "group": "Kinematic_data",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S13",
+    "group": "sEMG",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S14",
+    "group": "Ground_forces_and_moments",
+    "entries": 6,
+    "distinct_nonempty_recordings": 5
+  },
+  {
+    "subject": "S14",
+    "group": "Kinematic_data",
+    "entries": 6,
+    "distinct_nonempty_recordings": 5
+  },
+  {
+    "subject": "S14",
+    "group": "sEMG",
+    "entries": 6,
+    "distinct_nonempty_recordings": 5
+  },
+  {
+    "subject": "S15",
+    "group": "Ground_forces_and_moments",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S15",
+    "group": "Kinematic_data",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S15",
+    "group": "sEMG",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S16",
+    "group": "Ground_forces_and_moments",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S16",
+    "group": "Kinematic_data",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S16",
+    "group": "sEMG",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S17",
+    "group": "Ground_forces_and_moments",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S17",
+    "group": "Kinematic_data",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  },
+  {
+    "subject": "S17",
+    "group": "sEMG",
+    "entries": 6,
+    "distinct_nonempty_recordings": 6
+  }
+]
