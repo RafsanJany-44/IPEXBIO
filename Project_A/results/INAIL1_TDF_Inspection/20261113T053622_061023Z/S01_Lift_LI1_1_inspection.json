@@ -1,0 +1,1293 @@
+{
+  "file": "S01/Proprietary/TDF_format/S01_Lift_LI1_1.TDF",
+  "bytes": 3126268,
+  "sha256": "ac1b0dc63aa8c8dc256368ece4690d660a2c3bb3f6849fd19dce2a4712e0b164",
+  "first_512_bytes_hex": "82 4b 60 41 d3 11 84 ca 60 00 b6 ac 16 68 0c 08 01 00 00 00 0e 00 00 00 7c 43 1f 77 30 44 1f 77 b7 9e db 57 b7 9e db 57 9d 89 a7 66 50 04 00 00 c0 75 b1 0d ff ff 00 00 00 00 00 00 40 ec b1 0d 05 00 00 00 01 00 00 00 00 10 00 00 44 44 15 00 b7 9e db 57 b7 9e db 57 9d 89 a7 66 00 00 00 00 00 00 00 00 00 00 f0 ff 34 b2 8e 16 9b 00 00 80 54 01 00 00 00 00 00 00 9b 0c 00 00 54 01 00 00 00 00 00 00 9b 0c 00 00 54 01 00 00 00 00 00 00 9b 0c 00 00 54 01 00 00 3e b2 80 16 9b 01 00 80 39 00 00 00 34 00 30 00 30 00 00 00 30 00 00 00 53 00 65 00 67 00 6f 00 65 00 20 00 55 00 49 00 00 00 35 00 00 00 00 00 38 b2 9a 16 9b 02 00 80 39 00 00 00 34 00 30 00 30 00 00 00 30 00 00 00 53 00 65 00 67 00 6f 00 65 00 20 00 55 00 49 00 00 00 35 00 00 00 00 00 02 b2 9c 16 9b 03 00 80 39 00 00 00 34 00 30 00 30 00 00 00 30 00 00 00 53 00 65 00 67 00 6f 00 65 00 20 00 55 00 49 00 00 00 35 00 00 00 00 00 0c b2 96 16 9b 04 00 80 54 01 00 00 00 00 00 00 9b 0c 00 00 00 00 00 00 31 30 50 33 5f 72 20 73 68 6f 75 6c 64 00 00 00 00 5b b4 02 70 42 3b 08 16 b2 a8 16 2a 05 00 80 0b 00 00 00 01 00 00 00 44 54 15 00 08 1f 0c 00 b7 9e db 57 b7 9e db 57 9d 89 a7 66 55 00 49 00 00 00 35 00 00 00 00 00 10 b2 a2 16 2a 06 00 80 0e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 85 40 37 b3 2a 00 00 00 0f 00 00 00 00 00 00 00 00 c3 43 08 80 27 3e 08 1a b2 a4 16 2a 07 00 80 39 00 00 00 34 00 30 00 30 00 00 00 30 00 00 00 53 00 65 00 67 00 6f 00 65 00 20 00 55 00 49 00 00 00 35 00 00 00 00 00 e4 bd be 16 2a 08 00 80 39 00 00 00 34 00 30 00 30 00 00 00 30 00 00 00",
+  "ascii_string_count": 14842,
+  "ascii_strings_first_300": [
+    {
+      "byte_offset": 320,
+      "text": "10P3_r should"
+    },
+    {
+      "byte_offset": 1343,
+      "text": "=10P3_r e"
+    },
+    {
+      "byte_offset": 1600,
+      "text": "10P3_r elbow"
+    },
+    {
+      "byte_offset": 1855,
+      "text": "=10P3_r radio"
+    },
+    {
+      "byte_offset": 2113,
+      "text": "0P3_r e("
+    },
+    {
+      "byte_offset": 2592,
+      "text": "1G_Right"
+    },
+    {
+      "byte_offset": 2608,
+      "text": "s internus abdom10P3_r ulna"
+    },
+    {
+      "byte_offset": 2880,
+      "text": "10P3_R3M"
+    },
+    {
+      "byte_offset": 3328,
+      "text": "1G_Left Latissimus Dorsi"
+    },
+    {
+      "byte_offset": 3392,
+      "text": "10P3_R3M"
+    },
+    {
+      "byte_offset": 3408,
+      "text": "1G_Left "
+    },
+    {
+      "byte_offset": 3872,
+      "text": "1G_EMG Signal 2"
+    },
+    {
+      "byte_offset": 3952,
+      "text": "1G_Left Rectus abdominis"
+    },
+    {
+      "byte_offset": 4558,
+      "text": "sterno"
+    },
+    {
+      "byte_offset": 4569,
+      "text": "sacrum"
+    },
+    {
+      "byte_offset": 4576,
+      "text": "r should"
+    },
+    {
+      "byte_offset": 4585,
+      "text": "r elbow"
+    },
+    {
+      "byte_offset": 4593,
+      "text": "r ulna"
+    },
+    {
+      "byte_offset": 4600,
+      "text": "r radio"
+    },
+    {
+      "byte_offset": 4612,
+      "text": "r asis"
+    },
+    {
+      "byte_offset": 4619,
+      "text": "r thigh"
+    },
+    {
+      "byte_offset": 4627,
+      "text": "r knee 1"
+    },
+    {
+      "byte_offset": 4636,
+      "text": "r knee 2"
+    },
+    {
+      "byte_offset": 4645,
+      "text": "r mall"
+    },
+    {
+      "byte_offset": 4652,
+      "text": "r heel"
+    },
+    {
+      "byte_offset": 4665,
+      "text": "l should"
+    },
+    {
+      "byte_offset": 4674,
+      "text": "l elbow"
+    },
+    {
+      "byte_offset": 4682,
+      "text": "l radio"
+    },
+    {
+      "byte_offset": 4690,
+      "text": "l ulna"
+    },
+    {
+      "byte_offset": 4701,
+      "text": "l asis"
+    },
+    {
+      "byte_offset": 4708,
+      "text": "l thigh"
+    },
+    {
+      "byte_offset": 4716,
+      "text": "l knee 1"
+    },
+    {
+      "byte_offset": 4725,
+      "text": "l knee 2"
+    },
+    {
+      "byte_offset": 4734,
+      "text": "l mall"
+    },
+    {
+      "byte_offset": 4741,
+      "text": "l heel"
+    },
+    {
+      "byte_offset": 42763,
+      "text": "?ksz?tw"
+    },
+    {
+      "byte_offset": 43063,
+      "text": "?Vuz?8c"
+    },
+    {
+      "byte_offset": 43135,
+      "text": "?+Oz?3^"
+    },
+    {
+      "byte_offset": 43147,
+      "text": "?QJz?#]"
+    },
+    {
+      "byte_offset": 43267,
+      "text": "?a4z?hT"
+    },
+    {
+      "byte_offset": 43399,
+      "text": "?/Cz?PR"
+    },
+    {
+      "byte_offset": 43495,
+      "text": "?;Zz?fV"
+    },
+    {
+      "byte_offset": 43550,
+      "text": "sterno"
+    },
+    {
+      "byte_offset": 43561,
+      "text": "sacrum"
+    },
+    {
+      "byte_offset": 43568,
+      "text": "r should"
+    },
+    {
+      "byte_offset": 43577,
+      "text": "r elbow"
+    },
+    {
+      "byte_offset": 43585,
+      "text": "r ulna"
+    },
+    {
+      "byte_offset": 43592,
+      "text": "r radio"
+    },
+    {
+      "byte_offset": 43604,
+      "text": "r asis"
+    },
+    {
+      "byte_offset": 43611,
+      "text": "r thigh"
+    },
+    {
+      "byte_offset": 43619,
+      "text": "r knee 1"
+    },
+    {
+      "byte_offset": 43628,
+      "text": "r knee 2"
+    },
+    {
+      "byte_offset": 43637,
+      "text": "r mall"
+    },
+    {
+      "byte_offset": 43644,
+      "text": "r heel"
+    },
+    {
+      "byte_offset": 43657,
+      "text": "l should"
+    },
+    {
+      "byte_offset": 43666,
+      "text": "l elbow"
+    },
+    {
+      "byte_offset": 43674,
+      "text": "l radio"
+    },
+    {
+      "byte_offset": 43682,
+      "text": "l ulna"
+    },
+    {
+      "byte_offset": 43693,
+      "text": "l asis"
+    },
+    {
+      "byte_offset": 43700,
+      "text": "l thigh"
+    },
+    {
+      "byte_offset": 43708,
+      "text": "l knee 1"
+    },
+    {
+      "byte_offset": 43717,
+      "text": "l knee 2"
+    },
+    {
+      "byte_offset": 43726,
+      "text": "l mall"
+    },
+    {
+      "byte_offset": 43733,
+      "text": "l heel"
+    },
+    {
+      "byte_offset": 82542,
+      "text": "sterno"
+    },
+    {
+      "byte_offset": 82553,
+      "text": "sacrum"
+    },
+    {
+      "byte_offset": 82560,
+      "text": "r should"
+    },
+    {
+      "byte_offset": 82569,
+      "text": "r elbow"
+    },
+    {
+      "byte_offset": 82577,
+      "text": "r ulna"
+    },
+    {
+      "byte_offset": 82584,
+      "text": "r radio"
+    },
+    {
+      "byte_offset": 82596,
+      "text": "r asis"
+    },
+    {
+      "byte_offset": 82603,
+      "text": "r thigh"
+    },
+    {
+      "byte_offset": 82611,
+      "text": "r knee 1"
+    },
+    {
+      "byte_offset": 82620,
+      "text": "r knee 2"
+    },
+    {
+      "byte_offset": 82629,
+      "text": "r mall"
+    },
+    {
+      "byte_offset": 82636,
+      "text": "r heel"
+    },
+    {
+      "byte_offset": 82649,
+      "text": "l should"
+    },
+    {
+      "byte_offset": 82658,
+      "text": "l elbow"
+    },
+    {
+      "byte_offset": 82666,
+      "text": "l radio"
+    },
+    {
+      "byte_offset": 82674,
+      "text": "l ulna"
+    },
+    {
+      "byte_offset": 82685,
+      "text": "l asis"
+    },
+    {
+      "byte_offset": 82692,
+      "text": "l thigh"
+    },
+    {
+      "byte_offset": 82700,
+      "text": "l knee 1"
+    },
+    {
+      "byte_offset": 82709,
+      "text": "l knee 2"
+    },
+    {
+      "byte_offset": 82718,
+      "text": "l mall"
+    },
+    {
+      "byte_offset": 82725,
+      "text": "l heel"
+    },
+    {
+      "byte_offset": 121534,
+      "text": "sterno"
+    },
+    {
+      "byte_offset": 121545,
+      "text": "sacrum"
+    },
+    {
+      "byte_offset": 121552,
+      "text": "r should"
+    },
+    {
+      "byte_offset": 121561,
+      "text": "r elbow"
+    },
+    {
+      "byte_offset": 121569,
+      "text": "r ulna"
+    },
+    {
+      "byte_offset": 121576,
+      "text": "r radio"
+    },
+    {
+      "byte_offset": 121588,
+      "text": "r asis"
+    },
+    {
+      "byte_offset": 121595,
+      "text": "r thigh"
+    },
+    {
+      "byte_offset": 121603,
+      "text": "r knee 1"
+    },
+    {
+      "byte_offset": 121612,
+      "text": "r knee 2"
+    },
+    {
+      "byte_offset": 121621,
+      "text": "r mall"
+    },
+    {
+      "byte_offset": 121628,
+      "text": "r heel"
+    },
+    {
+      "byte_offset": 121641,
+      "text": "l should"
+    },
+    {
+      "byte_offset": 121650,
+      "text": "l elbow"
+    },
+    {
+      "byte_offset": 121658,
+      "text": "l radio"
+    },
+    {
+      "byte_offset": 121666,
+      "text": "l ulna"
+    },
+    {
+      "byte_offset": 121677,
+      "text": "l asis"
+    },
+    {
+      "byte_offset": 121684,
+      "text": "l thigh"
+    },
+    {
+      "byte_offset": 121692,
+      "text": "l knee 1"
+    },
+    {
+      "byte_offset": 121701,
+      "text": "l knee 2"
+    },
+    {
+      "byte_offset": 121710,
+      "text": "l mall"
+    },
+    {
+      "byte_offset": 121717,
+      "text": "l heel"
+    },
+    {
+      "byte_offset": 160526,
+      "text": "sterno"
+    },
+    {
+      "byte_offset": 160537,
+      "text": "sacrum"
+    },
+    {
+      "byte_offset": 160544,
+      "text": "r should"
+    },
+    {
+      "byte_offset": 160553,
+      "text": "r elbow"
+    },
+    {
+      "byte_offset": 160561,
+      "text": "r ulna"
+    },
+    {
+      "byte_offset": 160568,
+      "text": "r radio"
+    },
+    {
+      "byte_offset": 160580,
+      "text": "r asis"
+    },
+    {
+      "byte_offset": 160587,
+      "text": "r thigh"
+    },
+    {
+      "byte_offset": 160595,
+      "text": "r knee 1"
+    },
+    {
+      "byte_offset": 160604,
+      "text": "r knee 2"
+    },
+    {
+      "byte_offset": 160613,
+      "text": "r mall"
+    },
+    {
+      "byte_offset": 160620,
+      "text": "r heel"
+    },
+    {
+      "byte_offset": 160633,
+      "text": "l should"
+    },
+    {
+      "byte_offset": 160642,
+      "text": "l elbow"
+    },
+    {
+      "byte_offset": 160650,
+      "text": "l radio"
+    },
+    {
+      "byte_offset": 160658,
+      "text": "l ulna"
+    },
+    {
+      "byte_offset": 160669,
+      "text": "l asis"
+    },
+    {
+      "byte_offset": 160676,
+      "text": "l thigh"
+    },
+    {
+      "byte_offset": 160684,
+      "text": "l knee 1"
+    },
+    {
+      "byte_offset": 160693,
+      "text": "l knee 2"
+    },
+    {
+      "byte_offset": 160702,
+      "text": "l mall"
+    },
+    {
+      "byte_offset": 160709,
+      "text": "l heel"
+    },
+    {
+      "byte_offset": 160803,
+      "text": ">{{q?:"
+    },
+    {
+      "byte_offset": 160827,
+      "text": "> {q?B"
+    },
+    {
+      "byte_offset": 163011,
+      "text": ">o%r?\\"
+    },
+    {
+      "byte_offset": 163059,
+      "text": ">:3r?;"
+    },
+    {
+      "byte_offset": 163083,
+      "text": ">T:r?t"
+    },
+    {
+      "byte_offset": 163227,
+      "text": ">:`r?x"
+    },
+    {
+      "byte_offset": 163239,
+      "text": ">*cr?r"
+    },
+    {
+      "byte_offset": 164319,
+      "text": ">$'s?!"
+    },
+    {
+      "byte_offset": 164343,
+      "text": ">0)s?&"
+    },
+    {
+      "byte_offset": 164355,
+      "text": ">!+s?J"
+    },
+    {
+      "byte_offset": 164487,
+      "text": ">*3s?e"
+    },
+    {
+      "byte_offset": 164499,
+      "text": ">*4s?h"
+    },
+    {
+      "byte_offset": 164511,
+      "text": ">w4s?z"
+    },
+    {
+      "byte_offset": 164583,
+      "text": ">\\1s?j"
+    },
+    {
+      "byte_offset": 164679,
+      "text": ">.*s?2"
+    },
+    {
+      "byte_offset": 164691,
+      "text": ">7)s?1"
+    },
+    {
+      "byte_offset": 164703,
+      "text": ">F)s?*"
+    },
+    {
+      "byte_offset": 164739,
+      "text": ">w*s?/"
+    },
+    {
+      "byte_offset": 164847,
+      "text": ">Z*s?v"
+    },
+    {
+      "byte_offset": 164895,
+      "text": ">r s?C"
+    },
+    {
+      "byte_offset": 165759,
+      "text": ">)2s?r"
+    },
+    {
+      "byte_offset": 165795,
+      "text": ">]Ds?&"
+    },
+    {
+      "byte_offset": 165819,
+      "text": ">wIs?W"
+    },
+    {
+      "byte_offset": 165831,
+      "text": ">gFs?P"
+    },
+    {
+      "byte_offset": 166239,
+      "text": ">wNt?,8"
+    },
+    {
+      "byte_offset": 167355,
+      "text": "><>v?."
+    },
+    {
+      "byte_offset": 167451,
+      "text": ">j[v?8"
+    },
+    {
+      "byte_offset": 167523,
+      "text": ">S~v?1"
+    },
+    {
+      "byte_offset": 168279,
+      "text": ">0jx?."
+    },
+    {
+      "byte_offset": 168291,
+      "text": ">Twx?#"
+    },
+    {
+      "byte_offset": 168423,
+      "text": ">P,y?yd"
+    },
+    {
+      "byte_offset": 168471,
+      "text": ">jqy?AV"
+    },
+    {
+      "byte_offset": 168855,
+      "text": ">e;|?7"
+    },
+    {
+      "byte_offset": 198231,
+      "text": ">NAy?Id"
+    },
+    {
+      "byte_offset": 198339,
+      "text": ">m_x?Tk"
+    },
+    {
+      "byte_offset": 198351,
+      "text": ">\\Hx?<l"
+    },
+    {
+      "byte_offset": 198663,
+      "text": ">wOv?~v"
+    },
+    {
+      "byte_offset": 198939,
+      "text": ">\\7u?:r"
+    },
+    {
+      "byte_offset": 198963,
+      "text": ">b'u?<q"
+    },
+    {
+      "byte_offset": 199311,
+      "text": ">Cut?X`"
+    },
+    {
+      "byte_offset": 199359,
+      "text": ">!bt?F^"
+    },
+    {
+      "byte_offset": 199407,
+      "text": ">\"St?W\\"
+    },
+    {
+      "byte_offset": 199519,
+      "text": "sterno"
+    },
+    {
+      "byte_offset": 199530,
+      "text": "sacrum"
+    },
+    {
+      "byte_offset": 199537,
+      "text": "r should"
+    },
+    {
+      "byte_offset": 199546,
+      "text": "r elbow"
+    },
+    {
+      "byte_offset": 199554,
+      "text": "r ulna"
+    },
+    {
+      "byte_offset": 199561,
+      "text": "r radio"
+    },
+    {
+      "byte_offset": 199573,
+      "text": "r asis"
+    },
+    {
+      "byte_offset": 199580,
+      "text": "r thigh"
+    },
+    {
+      "byte_offset": 199588,
+      "text": "r knee 1"
+    },
+    {
+      "byte_offset": 199597,
+      "text": "r knee 2"
+    },
+    {
+      "byte_offset": 199606,
+      "text": "r mall"
+    },
+    {
+      "byte_offset": 199613,
+      "text": "r heel"
+    },
+    {
+      "byte_offset": 199626,
+      "text": "l should"
+    },
+    {
+      "byte_offset": 199635,
+      "text": "l elbow"
+    },
+    {
+      "byte_offset": 199643,
+      "text": "l radio"
+    },
+    {
+      "byte_offset": 199651,
+      "text": "l ulna"
+    },
+    {
+      "byte_offset": 199662,
+      "text": "l asis"
+    },
+    {
+      "byte_offset": 199669,
+      "text": "l thigh"
+    },
+    {
+      "byte_offset": 199677,
+      "text": "l knee 1"
+    },
+    {
+      "byte_offset": 199686,
+      "text": "l knee 2"
+    },
+    {
+      "byte_offset": 199695,
+      "text": "l mall"
+    },
+    {
+      "byte_offset": 199702,
+      "text": "l heel"
+    },
+    {
+      "byte_offset": 238511,
+      "text": ">sterno"
+    },
+    {
+      "byte_offset": 238523,
+      "text": "sacrum"
+    },
+    {
+      "byte_offset": 238530,
+      "text": "r should"
+    },
+    {
+      "byte_offset": 238539,
+      "text": "r elbow"
+    },
+    {
+      "byte_offset": 238547,
+      "text": "r ulna"
+    },
+    {
+      "byte_offset": 238554,
+      "text": "r radio"
+    },
+    {
+      "byte_offset": 238566,
+      "text": "r asis"
+    },
+    {
+      "byte_offset": 238573,
+      "text": "r thigh"
+    },
+    {
+      "byte_offset": 238581,
+      "text": "r knee 1"
+    },
+    {
+      "byte_offset": 238590,
+      "text": "r knee 2"
+    },
+    {
+      "byte_offset": 238599,
+      "text": "r mall"
+    },
+    {
+      "byte_offset": 238606,
+      "text": "r heel"
+    },
+    {
+      "byte_offset": 238619,
+      "text": "l should"
+    },
+    {
+      "byte_offset": 238628,
+      "text": "l elbow"
+    },
+    {
+      "byte_offset": 238636,
+      "text": "l radio"
+    },
+    {
+      "byte_offset": 238644,
+      "text": "l ulna"
+    },
+    {
+      "byte_offset": 238655,
+      "text": "l asis"
+    },
+    {
+      "byte_offset": 238662,
+      "text": "l thigh"
+    },
+    {
+      "byte_offset": 238670,
+      "text": "l knee 1"
+    },
+    {
+      "byte_offset": 238679,
+      "text": "l knee 2"
+    },
+    {
+      "byte_offset": 238688,
+      "text": "l mall"
+    },
+    {
+      "byte_offset": 238695,
+      "text": "l heel"
+    },
+    {
+      "byte_offset": 277512,
+      "text": "sacrum"
+    },
+    {
+      "byte_offset": 277519,
+      "text": "r should"
+    },
+    {
+      "byte_offset": 277528,
+      "text": "r elbow"
+    },
+    {
+      "byte_offset": 277536,
+      "text": "r ulna"
+    },
+    {
+      "byte_offset": 277543,
+      "text": "r radio"
+    },
+    {
+      "byte_offset": 277555,
+      "text": "r asis"
+    },
+    {
+      "byte_offset": 277562,
+      "text": "r thigh"
+    },
+    {
+      "byte_offset": 277570,
+      "text": "r knee 1"
+    },
+    {
+      "byte_offset": 277579,
+      "text": "r knee 2"
+    },
+    {
+      "byte_offset": 277588,
+      "text": "r mall"
+    },
+    {
+      "byte_offset": 277595,
+      "text": "r heel"
+    },
+    {
+      "byte_offset": 277608,
+      "text": "l should"
+    },
+    {
+      "byte_offset": 277617,
+      "text": "l elbow"
+    },
+    {
+      "byte_offset": 277625,
+      "text": "l radio"
+    },
+    {
+      "byte_offset": 277633,
+      "text": "l ulna"
+    },
+    {
+      "byte_offset": 277644,
+      "text": "l asis"
+    },
+    {
+      "byte_offset": 277651,
+      "text": "l thigh"
+    },
+    {
+      "byte_offset": 277659,
+      "text": "l knee 1"
+    },
+    {
+      "byte_offset": 277668,
+      "text": "l knee 2"
+    },
+    {
+      "byte_offset": 277677,
+      "text": "l mall"
+    },
+    {
+      "byte_offset": 277684,
+      "text": "l heel"
+    },
+    {
+      "byte_offset": 280323,
+      "text": ">j\"Z?V("
+    },
+    {
+      "byte_offset": 280371,
+      "text": "><*Z?6)"
+    },
+    {
+      "byte_offset": 280407,
+      "text": ">i.Z?g*"
+    },
+    {
+      "byte_offset": 280491,
+      "text": ">@9Z?E,"
+    },
+    {
+      "byte_offset": 280503,
+      "text": ">+:Z?z,"
+    },
+    {
+      "byte_offset": 280623,
+      "text": ">FIZ?R/"
+    },
+    {
+      "byte_offset": 280803,
+      "text": ">z`Z?~2"
+    },
+    {
+      "byte_offset": 280863,
+      "text": ">RhZ?v3"
+    },
+    {
+      "byte_offset": 280971,
+      "text": ">|sZ?O4"
+    },
+    {
+      "byte_offset": 281043,
+      "text": ">~yZ?H5"
+    },
+    {
+      "byte_offset": 282807,
+      "text": ">B#[?;"
+    },
+    {
+      "byte_offset": 282879,
+      "text": ">]'[?t"
+    },
+    {
+      "byte_offset": 283287,
+      "text": ">@e[?7"
+    },
+    {
+      "byte_offset": 284751,
+      "text": ">~y[?=@"
+    },
+    {
+      "byte_offset": 284775,
+      "text": ">5o[?NC"
+    },
+    {
+      "byte_offset": 284907,
+      "text": ">v4[?NZ"
+    },
+    {
+      "byte_offset": 285747,
+      "text": ">jrY?~"
+    },
+    {
+      "byte_offset": 285939,
+      "text": ">%s[?d"
+    },
+    {
+      "byte_offset": 286035,
+      "text": ">2}\\?o"
+    },
+    {
+      "byte_offset": 286815,
+      "text": ">4b_???"
+    },
+    {
+      "byte_offset": 287031,
+      "text": ">cG`?(Y"
+    },
+    {
+      "byte_offset": 287343,
+      "text": ">sFa?]v"
+    },
+    {
+      "byte_offset": 287775,
+      "text": ">u,b?s"
+    },
+    {
+      "byte_offset": 287823,
+      "text": ">d?b?K"
+    },
+    {
+      "byte_offset": 287871,
+      "text": ">POb?`"
+    },
+    {
+      "byte_offset": 287967,
+      "text": ">\"qb?\\"
+    },
+    {
+      "byte_offset": 290259,
+      "text": ">^2c?j"
+    },
+    {
+      "byte_offset": 291231,
+      "text": ">~$d?1"
+    },
+    {
+      "byte_offset": 291243,
+      "text": ">((d?I"
+    },
+    {
+      "byte_offset": 291351,
+      "text": ">jDd?>"
+    },
+    {
+      "byte_offset": 291435,
+      "text": ">Jbd?)"
+    },
+    {
+      "byte_offset": 291471,
+      "text": ">*od?d"
+    },
+    {
+      "byte_offset": 291495,
+      "text": ">V{d?4"
+    },
+    {
+      "byte_offset": 292167,
+      "text": ">+#e?v"
+    },
+    {
+      "byte_offset": 292203,
+      "text": ">U)e?&"
+    },
+    {
+      "byte_offset": 292323,
+      "text": ">K8e?e"
+    },
+    {
+      "byte_offset": 292407,
+      "text": ">r>e?x"
+    },
+    {
+      "byte_offset": 292791,
+      "text": ">rQe?n"
+    },
+    {
+      "byte_offset": 292851,
+      "text": ">YOe?_"
+    },
+    {
+      "byte_offset": 292899,
+      "text": ">\\Oe?t"
+    },
+    {
+      "byte_offset": 293019,
+      "text": ">`Je?="
+    },
+    {
+      "byte_offset": 293079,
+      "text": ">DGe?i"
+    },
+    {
+      "byte_offset": 293223,
+      "text": ">\"=e?\\"
+    },
+    {
+      "byte_offset": 293247,
+      "text": ">f;e?:"
+    },
+    {
+      "byte_offset": 293283,
+      "text": ">h8e?V"
+    },
+    {
+      "byte_offset": 293295,
+      "text": ">M7e?I"
+    },
+    {
+      "byte_offset": 293307,
+      "text": ">O5e?$"
+    },
+    {
+      "byte_offset": 293331,
+      "text": ">:3e?2"
+    },
+    {
+      "byte_offset": 293415,
+      "text": ">X,e?r"
+    },
+    {
+      "byte_offset": 293451,
+      "text": ">++e?g"
+    },
+    {
+      "byte_offset": 293499,
+      "text": ">c)e?7"
+    },
+    {
+      "byte_offset": 293535,
+      "text": ">5&e?X"
+    },
+    {
+      "byte_offset": 293547,
+      "text": ">V$e?t"
+    },
+    {
+      "byte_offset": 294627,
+      "text": ">\\8e?E"
+    },
+    {
+      "byte_offset": 294771,
+      "text": ">\\ve?I"
+    },
+    {
+      "byte_offset": 295539,
+      "text": ">6kg?\""
+    },
+    {
+      "byte_offset": 295551,
+      "text": ">Rwg?s"
+    },
+    {
+      "byte_offset": 296031,
+      "text": ">3-i?v"
+    },
+    {
+      "byte_offset": 296079,
+      "text": ">WUi?t"
+    },
+    {
+      "byte_offset": 296379,
+      "text": ">-3j?l"
+    },
+    {
+      "byte_offset": 296391,
+      "text": ">(<j?V"
+    },
+    {
+      "byte_offset": 296691,
+      "text": ">'[k?|"
+    },
+    {
+      "byte_offset": 296895,
+      "text": ">HKl?5"
+    }
+  ],
+  "utf16_le_string_count": 20,
+  "utf16_le_strings_first_300": [
+    {
+      "byte_offset": 176,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 224,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 272,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 464,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 512,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 560,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 608,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 848,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 1040,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 1184,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 1376,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 1426,
+      "text": "Segoe UI"
+    },
+    {
+      "byte_offset": 3124366,
+      "text": "calibra"
+    },
+    {
+      "byte_offset": 3124628,
+      "text": "calibratio"
+    },
+    {
+      "byte_offset": 3124891,
+      "text": "calibration"
+    },
+    {
+      "byte_offset": 3125142,
+      "text": "calibration"
+    },
+    {
+      "byte_offset": 3125398,
+      "text": "calibration"
+    },
+    {
+      "byte_offset": 3125658,
+      "text": "calibration"
+    },
+    {
+      "byte_offset": 3125918,
+      "text": "calibration"
+    },
+    {
+      "byte_offset": 3126179,
+      "text": "calibration"
+    }
+  ],
+  "interpretation": "Raw binary inspection; timing fields have not been decoded or verified."
+}

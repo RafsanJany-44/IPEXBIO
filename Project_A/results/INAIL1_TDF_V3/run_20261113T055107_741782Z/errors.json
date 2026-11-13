@@ -1,0 +1,260 @@
+[
+  {
+    "subject": "S01",
+    "trial_id": "S01::s01_lift_li3_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S11",
+    "trial_id": "S11::s11_lift_li1_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S11",
+    "trial_id": "S11::s11_lift_li1_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S11",
+    "trial_id": "S11::s11_lift_li1_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S11",
+    "trial_id": "S11::s11_lift_li2_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S11",
+    "trial_id": "S11::s11_lift_li2_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S11",
+    "trial_id": "S11::s11_lift_li2_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S12",
+    "trial_id": "S12::s12_lift_li1_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S12",
+    "trial_id": "S12::s12_lift_li1_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S12",
+    "trial_id": "S12::s12_lift_li1_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S12",
+    "trial_id": "S12::s12_lift_li2_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S12",
+    "trial_id": "S12::s12_lift_li2_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S12",
+    "trial_id": "S12::s12_lift_li2_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S13",
+    "trial_id": "S13::s13_lift_li1_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S13",
+    "trial_id": "S13::s13_lift_li1_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S13",
+    "trial_id": "S13::s13_lift_li1_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S13",
+    "trial_id": "S13::s13_lift_li2_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S13",
+    "trial_id": "S13::s13_lift_li2_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S13",
+    "trial_id": "S13::s13_lift_li2_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S14",
+    "trial_id": "S14::s14_lift_li1_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S14",
+    "trial_id": "S14::s14_lift_li1_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S14",
+    "trial_id": "S14::s14_lift_li1_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S14",
+    "trial_id": "S14::s14_lift_li2_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S14",
+    "trial_id": "S14::s14_lift_li2_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S14",
+    "trial_id": "S14::s14_lift_li2_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S15",
+    "trial_id": "S15::s15_lift_li1_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S15",
+    "trial_id": "S15::s15_lift_li1_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S15",
+    "trial_id": "S15::s15_lift_li1_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S15",
+    "trial_id": "S15::s15_lift_li2_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S15",
+    "trial_id": "S15::s15_lift_li2_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S15",
+    "trial_id": "S15::s15_lift_li2_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S16",
+    "trial_id": "S16::s16_lift_li1_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S16",
+    "trial_id": "S16::s16_lift_li1_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S16",
+    "trial_id": "S16::s16_lift_li1_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S16",
+    "trial_id": "S16::s16_lift_li2_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S16",
+    "trial_id": "S16::s16_lift_li2_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S16",
+    "trial_id": "S16::s16_lift_li2_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S17",
+    "trial_id": "S17::s17_lift_li1_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S17",
+    "trial_id": "S17::s17_lift_li1_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S17",
+    "trial_id": "S17::s17_lift_li1_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S17",
+    "trial_id": "S17::s17_lift_li2_1",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S17",
+    "trial_id": "S17::s17_lift_li2_2",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  },
+  {
+    "subject": "S17",
+    "trial_id": "S17::s17_lift_li2_3",
+    "error": "Expected one TDF and EMG match, found 0 and 1",
+    "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_2575521/1280619597.py\", line 23, in <module>\n    raise ValueError(f\"Expected one TDF and EMG match, found {len(matches)} and {len(ematches)}\")\nValueError: Expected one TDF and EMG match, found 0 and 1\n"
+  }
+]

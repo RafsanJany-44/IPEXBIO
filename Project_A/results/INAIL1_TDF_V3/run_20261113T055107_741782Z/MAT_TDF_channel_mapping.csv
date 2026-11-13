@@ -1,0 +1,1425 @@
+subject,trial_id,mat_channel,match_count,matching_indices,matching_labels,max_error_after_1e6_scale,unique_match
+S01,S01::s01_lift_li1_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li1_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li1_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S01,S01::s01_lift_li1_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li1_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S01,S01::s01_lift_li1_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li1_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li1_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S01,S01::s01_lift_li1_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li1_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S01,S01::s01_lift_li1_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li1_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li1_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S01,S01::s01_lift_li1_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li1_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S01,S01::s01_lift_li1_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li1_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li1_2,LM,2,"[10, 11]","[""Left Multifidus"", ""Left Latissimus Dorsi""]",,False
+S01,S01::s01_lift_li1_2,LLD,2,"[10, 11]","[""Left Multifidus"", ""Left Latissimus Dorsi""]",,False
+S01,S01::s01_lift_li1_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S01,S01::s01_lift_li1_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li1_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li1_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S01,S01::s01_lift_li1_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li1_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S01,S01::s01_lift_li1_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li1_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li1_3,LM,2,"[10, 11]","[""Left Multifidus"", ""Left Latissimus Dorsi""]",,False
+S01,S01::s01_lift_li1_3,LLD,2,"[10, 11]","[""Left Multifidus"", ""Left Latissimus Dorsi""]",,False
+S01,S01::s01_lift_li1_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S01,S01::s01_lift_li1_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li1_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li2_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li2_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S01,S01::s01_lift_li2_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li2_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S01,S01::s01_lift_li2_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li2_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li2_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S01,S01::s01_lift_li2_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li2_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S01,S01::s01_lift_li2_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li2_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li2_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S01,S01::s01_lift_li2_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li2_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S01,S01::s01_lift_li2_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li2_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li2_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S01,S01::s01_lift_li2_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li2_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S01,S01::s01_lift_li2_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li2_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li2_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S01,S01::s01_lift_li2_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li2_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S01,S01::s01_lift_li2_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li2_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li2_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S01,S01::s01_lift_li2_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li2_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S01,S01::s01_lift_li2_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li2_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li3_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li3_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S01,S01::s01_lift_li3_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li3_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S01,S01::s01_lift_li3_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li3_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li3_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S01,S01::s01_lift_li3_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li3_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S01,S01::s01_lift_li3_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li3_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li3_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S01,S01::s01_lift_li3_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li3_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S01,S01::s01_lift_li3_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S01,S01::s01_lift_li3_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S01,S01::s01_lift_li3_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S01,S01::s01_lift_li3_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S01,S01::s01_lift_li3_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S01,S01::s01_lift_li3_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S01,S01::s01_lift_li3_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li1_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li1_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S10,S10::s10_lift_li1_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li1_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S10,S10::s10_lift_li1_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li1_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li1_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S10,S10::s10_lift_li1_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li1_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S10,S10::s10_lift_li1_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li1_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li1_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S10,S10::s10_lift_li1_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li1_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S10,S10::s10_lift_li1_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li1_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li1_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S10,S10::s10_lift_li1_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li1_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S10,S10::s10_lift_li1_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li1_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li1_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S10,S10::s10_lift_li1_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li1_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S10,S10::s10_lift_li1_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li1_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li1_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S10,S10::s10_lift_li1_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li1_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S10,S10::s10_lift_li1_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li1_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li2_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li2_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S10,S10::s10_lift_li2_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li2_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S10,S10::s10_lift_li2_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li2_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li2_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S10,S10::s10_lift_li2_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li2_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S10,S10::s10_lift_li2_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li2_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li2_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S10,S10::s10_lift_li2_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li2_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S10,S10::s10_lift_li2_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li2_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li2_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S10,S10::s10_lift_li2_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li2_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S10,S10::s10_lift_li2_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li2_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li2_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S10,S10::s10_lift_li2_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li2_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S10,S10::s10_lift_li2_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li2_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li2_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S10,S10::s10_lift_li2_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li2_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S10,S10::s10_lift_li2_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li2_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li3_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li3_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S10,S10::s10_lift_li3_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li3_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S10,S10::s10_lift_li3_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li3_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li3_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S10,S10::s10_lift_li3_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li3_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S10,S10::s10_lift_li3_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li3_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li3_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S10,S10::s10_lift_li3_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li3_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S10,S10::s10_lift_li3_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li3_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li3_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S10,S10::s10_lift_li3_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li3_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S10,S10::s10_lift_li3_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li3_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li3_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S10,S10::s10_lift_li3_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li3_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S10,S10::s10_lift_li3_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S10,S10::s10_lift_li3_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S10,S10::s10_lift_li3_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S10,S10::s10_lift_li3_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S10,S10::s10_lift_li3_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S10,S10::s10_lift_li3_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S10,S10::s10_lift_li3_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li1_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li1_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S02,S02::s02_lift_li1_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li1_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S02,S02::s02_lift_li1_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li1_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li1_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S02,S02::s02_lift_li1_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li1_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S02,S02::s02_lift_li1_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li1_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li1_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S02,S02::s02_lift_li1_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li1_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S02,S02::s02_lift_li1_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li1_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li1_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S02,S02::s02_lift_li1_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li1_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S02,S02::s02_lift_li1_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li1_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li1_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S02,S02::s02_lift_li1_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li1_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S02,S02::s02_lift_li1_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li1_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li1_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S02,S02::s02_lift_li1_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li1_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S02,S02::s02_lift_li1_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li1_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li2_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li2_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S02,S02::s02_lift_li2_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li2_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S02,S02::s02_lift_li2_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li2_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li2_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S02,S02::s02_lift_li2_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li2_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S02,S02::s02_lift_li2_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li2_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li2_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S02,S02::s02_lift_li2_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li2_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S02,S02::s02_lift_li2_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li2_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li2_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S02,S02::s02_lift_li2_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li2_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S02,S02::s02_lift_li2_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li2_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li2_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S02,S02::s02_lift_li2_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li2_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S02,S02::s02_lift_li2_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li2_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li2_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S02,S02::s02_lift_li2_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li2_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S02,S02::s02_lift_li2_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li2_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li3_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li3_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S02,S02::s02_lift_li3_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li3_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S02,S02::s02_lift_li3_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li3_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li3_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S02,S02::s02_lift_li3_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li3_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S02,S02::s02_lift_li3_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li3_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li3_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S02,S02::s02_lift_li3_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li3_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S02,S02::s02_lift_li3_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li3_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li3_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S02,S02::s02_lift_li3_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li3_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S02,S02::s02_lift_li3_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li3_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li3_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S02,S02::s02_lift_li3_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li3_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S02,S02::s02_lift_li3_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S02,S02::s02_lift_li3_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S02,S02::s02_lift_li3_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S02,S02::s02_lift_li3_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S02,S02::s02_lift_li3_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S02,S02::s02_lift_li3_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S02,S02::s02_lift_li3_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li1_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li1_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S03,S03::s03_lift_li1_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li1_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S03,S03::s03_lift_li1_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li1_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li1_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S03,S03::s03_lift_li1_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li1_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S03,S03::s03_lift_li1_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li1_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li1_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S03,S03::s03_lift_li1_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li1_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S03,S03::s03_lift_li1_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li1_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li1_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S03,S03::s03_lift_li1_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li1_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S03,S03::s03_lift_li1_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li1_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li1_3,RM,2,"[2, 10]","[""Right Multifidus"", ""Left Multifidus""]",,False
+S03,S03::s03_lift_li1_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li1_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S03,S03::s03_lift_li1_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li1_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li1_3,LM,2,"[2, 10]","[""Right Multifidus"", ""Left Multifidus""]",,False
+S03,S03::s03_lift_li1_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li1_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S03,S03::s03_lift_li1_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li1_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li2_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li2_1,RM,2,"[2, 15]","[""Right Multifidus"", ""Left Obliquus internus abdominis""]",,False
+S03,S03::s03_lift_li2_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li2_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S03,S03::s03_lift_li2_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li2_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li2_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S03,S03::s03_lift_li2_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li2_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S03,S03::s03_lift_li2_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_1,LIO,2,"[2, 15]","[""Right Multifidus"", ""Left Obliquus internus abdominis""]",,False
+S03,S03::s03_lift_li2_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li2_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li2_2,RM,2,"[2, 15]","[""Right Multifidus"", ""Left Obliquus internus abdominis""]",,False
+S03,S03::s03_lift_li2_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li2_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S03,S03::s03_lift_li2_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li2_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li2_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S03,S03::s03_lift_li2_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li2_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S03,S03::s03_lift_li2_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_2,LIO,2,"[2, 15]","[""Right Multifidus"", ""Left Obliquus internus abdominis""]",,False
+S03,S03::s03_lift_li2_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li2_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li2_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S03,S03::s03_lift_li2_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li2_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S03,S03::s03_lift_li2_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li2_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li2_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S03,S03::s03_lift_li2_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li2_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S03,S03::s03_lift_li2_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li2_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li3_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li3_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S03,S03::s03_lift_li3_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li3_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S03,S03::s03_lift_li3_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li3_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li3_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S03,S03::s03_lift_li3_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li3_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S03,S03::s03_lift_li3_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li3_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li3_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S03,S03::s03_lift_li3_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li3_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S03,S03::s03_lift_li3_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li3_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li3_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S03,S03::s03_lift_li3_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li3_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S03,S03::s03_lift_li3_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li3_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li3_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S03,S03::s03_lift_li3_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li3_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S03,S03::s03_lift_li3_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S03,S03::s03_lift_li3_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S03,S03::s03_lift_li3_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S03,S03::s03_lift_li3_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S03,S03::s03_lift_li3_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S03,S03::s03_lift_li3_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S03,S03::s03_lift_li3_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li1_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li1_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S04,S04::s04_lift_li1_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li1_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S04,S04::s04_lift_li1_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li1_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li1_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S04,S04::s04_lift_li1_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li1_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S04,S04::s04_lift_li1_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li1_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li1_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S04,S04::s04_lift_li1_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li1_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S04,S04::s04_lift_li1_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li1_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li1_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S04,S04::s04_lift_li1_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li1_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S04,S04::s04_lift_li1_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li1_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li1_3,RM,3,"[2, 6, 11]","[""Right Multifidus"", ""Right Obliquus externus abdominis"", ""Left Latissimus Dorsi""]",,False
+S04,S04::s04_lift_li1_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li1_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S04,S04::s04_lift_li1_3,REO,3,"[2, 6, 11]","[""Right Multifidus"", ""Right Obliquus externus abdominis"", ""Left Latissimus Dorsi""]",,False
+S04,S04::s04_lift_li1_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li1_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li1_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S04,S04::s04_lift_li1_3,LLD,3,"[2, 6, 11]","[""Right Multifidus"", ""Right Obliquus externus abdominis"", ""Left Latissimus Dorsi""]",,False
+S04,S04::s04_lift_li1_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S04,S04::s04_lift_li1_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li1_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li2_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li2_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S04,S04::s04_lift_li2_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li2_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S04,S04::s04_lift_li2_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li2_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li2_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S04,S04::s04_lift_li2_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li2_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S04,S04::s04_lift_li2_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li2_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li2_2,RM,2,"[2, 14]","[""Right Multifidus"", ""Left Obliquus externus abdominis""]",,False
+S04,S04::s04_lift_li2_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li2_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S04,S04::s04_lift_li2_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li2_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li2_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S04,S04::s04_lift_li2_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li2_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S04,S04::s04_lift_li2_2,LEO,2,"[2, 14]","[""Right Multifidus"", ""Left Obliquus externus abdominis""]",,False
+S04,S04::s04_lift_li2_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li2_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li2_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S04,S04::s04_lift_li2_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li2_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S04,S04::s04_lift_li2_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li2_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li2_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S04,S04::s04_lift_li2_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li2_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S04,S04::s04_lift_li2_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li2_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li3_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li3_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S04,S04::s04_lift_li3_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li3_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S04,S04::s04_lift_li3_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li3_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li3_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S04,S04::s04_lift_li3_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li3_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S04,S04::s04_lift_li3_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li3_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li3_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S04,S04::s04_lift_li3_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li3_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S04,S04::s04_lift_li3_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li3_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li3_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S04,S04::s04_lift_li3_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li3_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S04,S04::s04_lift_li3_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li3_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li3_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S04,S04::s04_lift_li3_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li3_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S04,S04::s04_lift_li3_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S04,S04::s04_lift_li3_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S04,S04::s04_lift_li3_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S04,S04::s04_lift_li3_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S04,S04::s04_lift_li3_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S04,S04::s04_lift_li3_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S04,S04::s04_lift_li3_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li1_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li1_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S05,S05::s05_lift_li1_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li1_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S05,S05::s05_lift_li1_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li1_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li1_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S05,S05::s05_lift_li1_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li1_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S05,S05::s05_lift_li1_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li1_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li1_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S05,S05::s05_lift_li1_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li1_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S05,S05::s05_lift_li1_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li1_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li1_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S05,S05::s05_lift_li1_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li1_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S05,S05::s05_lift_li1_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li1_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li1_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S05,S05::s05_lift_li1_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li1_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S05,S05::s05_lift_li1_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li1_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li1_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S05,S05::s05_lift_li1_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li1_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S05,S05::s05_lift_li1_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li1_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li2_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li2_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S05,S05::s05_lift_li2_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li2_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S05,S05::s05_lift_li2_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li2_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li2_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S05,S05::s05_lift_li2_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li2_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S05,S05::s05_lift_li2_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li2_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li2_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S05,S05::s05_lift_li2_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li2_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S05,S05::s05_lift_li2_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li2_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li2_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S05,S05::s05_lift_li2_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li2_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S05,S05::s05_lift_li2_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li2_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li2_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S05,S05::s05_lift_li2_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li2_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S05,S05::s05_lift_li2_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li2_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li2_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li2_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S05,S05::s05_lift_li2_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li2_3,LRAS,4,"[12, 13, 14, 15]","[""Left Rectus abdominis"", ""EMG Signal 2"", ""Left Obliquus externus abdominis"", ""Left Obliquus internus abdominis""]",,False
+S05,S05::s05_lift_li2_3,LRAM,4,"[12, 13, 14, 15]","[""Left Rectus abdominis"", ""EMG Signal 2"", ""Left Obliquus externus abdominis"", ""Left Obliquus internus abdominis""]",,False
+S05,S05::s05_lift_li2_3,LEO,4,"[12, 13, 14, 15]","[""Left Rectus abdominis"", ""EMG Signal 2"", ""Left Obliquus externus abdominis"", ""Left Obliquus internus abdominis""]",,False
+S05,S05::s05_lift_li2_3,LIO,4,"[12, 13, 14, 15]","[""Left Rectus abdominis"", ""EMG Signal 2"", ""Left Obliquus externus abdominis"", ""Left Obliquus internus abdominis""]",,False
+S05,S05::s05_lift_li3_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li3_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li3_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S05,S05::s05_lift_li3_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li3_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S05,S05::s05_lift_li3_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li3_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li3_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S05,S05::s05_lift_li3_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li3_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S05,S05::s05_lift_li3_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li3_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li3_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S05,S05::s05_lift_li3_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li3_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S05,S05::s05_lift_li3_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li3_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li3_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S05,S05::s05_lift_li3_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li3_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S05,S05::s05_lift_li3_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li3_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li3_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S05,S05::s05_lift_li3_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li3_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S05,S05::s05_lift_li3_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S05,S05::s05_lift_li3_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S05,S05::s05_lift_li3_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S05,S05::s05_lift_li3_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S05,S05::s05_lift_li3_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S05,S05::s05_lift_li3_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S05,S05::s05_lift_li3_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li1_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li1_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S06,S06::s06_lift_li1_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li1_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S06,S06::s06_lift_li1_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li1_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li1_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S06,S06::s06_lift_li1_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li1_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S06,S06::s06_lift_li1_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li1_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li1_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S06,S06::s06_lift_li1_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li1_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S06,S06::s06_lift_li1_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li1_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li1_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S06,S06::s06_lift_li1_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li1_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S06,S06::s06_lift_li1_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li1_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li1_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S06,S06::s06_lift_li1_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li1_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S06,S06::s06_lift_li1_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li1_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li1_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S06,S06::s06_lift_li1_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li1_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S06,S06::s06_lift_li1_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li1_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li2_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li2_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S06,S06::s06_lift_li2_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li2_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S06,S06::s06_lift_li2_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li2_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li2_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S06,S06::s06_lift_li2_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li2_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S06,S06::s06_lift_li2_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li2_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li2_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S06,S06::s06_lift_li2_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li2_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S06,S06::s06_lift_li2_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li2_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li2_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S06,S06::s06_lift_li2_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li2_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S06,S06::s06_lift_li2_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li2_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li2_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S06,S06::s06_lift_li2_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li2_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S06,S06::s06_lift_li2_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li2_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li2_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S06,S06::s06_lift_li2_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li2_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S06,S06::s06_lift_li2_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li2_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li3_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li3_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S06,S06::s06_lift_li3_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li3_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S06,S06::s06_lift_li3_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li3_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li3_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S06,S06::s06_lift_li3_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li3_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S06,S06::s06_lift_li3_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li3_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li3_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S06,S06::s06_lift_li3_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li3_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S06,S06::s06_lift_li3_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li3_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li3_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S06,S06::s06_lift_li3_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li3_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S06,S06::s06_lift_li3_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li3_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li3_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S06,S06::s06_lift_li3_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li3_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S06,S06::s06_lift_li3_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S06,S06::s06_lift_li3_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S06,S06::s06_lift_li3_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S06,S06::s06_lift_li3_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S06,S06::s06_lift_li3_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S06,S06::s06_lift_li3_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S06,S06::s06_lift_li3_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li1_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li1_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S07,S07::s07_lift_li1_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li1_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S07,S07::s07_lift_li1_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li1_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li1_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S07,S07::s07_lift_li1_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li1_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S07,S07::s07_lift_li1_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li1_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li1_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S07,S07::s07_lift_li1_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li1_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S07,S07::s07_lift_li1_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li1_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li1_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S07,S07::s07_lift_li1_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li1_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S07,S07::s07_lift_li1_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li1_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li1_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S07,S07::s07_lift_li1_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li1_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S07,S07::s07_lift_li1_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li1_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li1_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S07,S07::s07_lift_li1_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li1_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S07,S07::s07_lift_li1_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li1_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li2_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li2_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S07,S07::s07_lift_li2_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li2_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S07,S07::s07_lift_li2_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li2_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li2_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S07,S07::s07_lift_li2_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li2_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S07,S07::s07_lift_li2_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li2_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li2_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S07,S07::s07_lift_li2_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li2_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S07,S07::s07_lift_li2_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li2_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li2_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S07,S07::s07_lift_li2_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li2_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S07,S07::s07_lift_li2_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li2_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li2_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S07,S07::s07_lift_li2_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li2_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S07,S07::s07_lift_li2_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li2_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li2_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S07,S07::s07_lift_li2_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li2_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S07,S07::s07_lift_li2_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li2_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li3_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li3_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S07,S07::s07_lift_li3_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li3_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S07,S07::s07_lift_li3_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li3_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li3_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S07,S07::s07_lift_li3_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li3_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S07,S07::s07_lift_li3_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li3_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li3_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S07,S07::s07_lift_li3_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li3_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S07,S07::s07_lift_li3_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li3_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li3_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S07,S07::s07_lift_li3_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li3_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S07,S07::s07_lift_li3_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li3_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li3_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S07,S07::s07_lift_li3_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li3_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S07,S07::s07_lift_li3_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S07,S07::s07_lift_li3_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S07,S07::s07_lift_li3_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S07,S07::s07_lift_li3_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S07,S07::s07_lift_li3_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S07,S07::s07_lift_li3_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S07,S07::s07_lift_li3_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li1_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li1_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S08,S08::s08_lift_li1_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li1_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S08,S08::s08_lift_li1_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li1_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li1_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S08,S08::s08_lift_li1_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li1_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S08,S08::s08_lift_li1_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li1_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li1_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S08,S08::s08_lift_li1_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li1_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S08,S08::s08_lift_li1_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li1_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li1_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S08,S08::s08_lift_li1_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li1_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S08,S08::s08_lift_li1_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li1_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li1_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S08,S08::s08_lift_li1_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li1_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S08,S08::s08_lift_li1_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li1_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li1_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S08,S08::s08_lift_li1_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li1_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S08,S08::s08_lift_li1_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li1_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li2_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li2_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S08,S08::s08_lift_li2_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li2_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S08,S08::s08_lift_li2_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li2_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li2_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S08,S08::s08_lift_li2_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li2_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S08,S08::s08_lift_li2_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li2_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li2_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S08,S08::s08_lift_li2_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li2_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S08,S08::s08_lift_li2_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li2_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li2_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S08,S08::s08_lift_li2_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li2_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S08,S08::s08_lift_li2_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li2_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li2_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S08,S08::s08_lift_li2_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li2_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S08,S08::s08_lift_li2_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li2_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li2_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S08,S08::s08_lift_li2_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li2_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S08,S08::s08_lift_li2_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li2_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li3_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li3_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S08,S08::s08_lift_li3_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li3_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S08,S08::s08_lift_li3_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li3_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li3_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S08,S08::s08_lift_li3_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li3_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S08,S08::s08_lift_li3_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li3_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li3_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S08,S08::s08_lift_li3_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li3_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S08,S08::s08_lift_li3_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li3_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li3_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S08,S08::s08_lift_li3_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li3_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S08,S08::s08_lift_li3_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li3_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li3_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S08,S08::s08_lift_li3_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li3_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S08,S08::s08_lift_li3_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S08,S08::s08_lift_li3_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S08,S08::s08_lift_li3_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S08,S08::s08_lift_li3_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S08,S08::s08_lift_li3_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S08,S08::s08_lift_li3_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S08,S08::s08_lift_li3_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li1_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li1_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S09,S09::s09_lift_li1_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li1_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S09,S09::s09_lift_li1_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li1_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li1_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S09,S09::s09_lift_li1_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li1_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S09,S09::s09_lift_li1_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li1_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li1_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S09,S09::s09_lift_li1_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li1_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S09,S09::s09_lift_li1_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li1_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li1_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S09,S09::s09_lift_li1_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li1_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S09,S09::s09_lift_li1_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li1_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li1_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S09,S09::s09_lift_li1_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li1_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S09,S09::s09_lift_li1_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li1_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li1_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S09,S09::s09_lift_li1_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li1_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S09,S09::s09_lift_li1_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li1_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li2_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li2_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S09,S09::s09_lift_li2_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li2_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S09,S09::s09_lift_li2_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li2_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li2_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S09,S09::s09_lift_li2_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li2_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S09,S09::s09_lift_li2_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li2_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li2_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S09,S09::s09_lift_li2_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li2_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S09,S09::s09_lift_li2_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li2_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li2_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S09,S09::s09_lift_li2_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li2_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S09,S09::s09_lift_li2_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li2_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li2_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S09,S09::s09_lift_li2_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li2_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S09,S09::s09_lift_li2_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li2_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li2_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S09,S09::s09_lift_li2_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li2_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S09,S09::s09_lift_li2_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li2_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_1,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li3_1,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li3_1,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S09,S09::s09_lift_li3_1,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li3_1,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_1,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S09,S09::s09_lift_li3_1,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_1,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_1,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li3_1,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li3_1,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S09,S09::s09_lift_li3_1,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li3_1,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_1,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S09,S09::s09_lift_li3_1,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_1,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_2,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li3_2,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li3_2,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S09,S09::s09_lift_li3_2,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li3_2,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_2,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S09,S09::s09_lift_li3_2,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_2,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_2,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li3_2,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li3_2,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S09,S09::s09_lift_li3_2,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li3_2,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_2,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S09,S09::s09_lift_li3_2,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_2,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_3,RESL,1,[0],"[""Right Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li3_3,RESI,1,[1],"[""Right Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li3_3,RM,1,[2],"[""Right Multifidus""]",0.0,True
+S09,S09::s09_lift_li3_3,RLD,1,[3],"[""Right Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li3_3,RRAS,1,[4],"[""Right Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_3,RRAM,1,[5],"[""EMG Signal 1""]",0.0,True
+S09,S09::s09_lift_li3_3,REO,1,[6],"[""Right Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_3,RIO,1,[7],"[""Right Obliquus internus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_3,LESL,1,[8],"[""Left Erector spinae longissimus""]",0.0,True
+S09,S09::s09_lift_li3_3,LESI,1,[9],"[""Left Erector spinae ileocostalis""]",0.0,True
+S09,S09::s09_lift_li3_3,LM,1,[10],"[""Left Multifidus""]",0.0,True
+S09,S09::s09_lift_li3_3,LLD,1,[11],"[""Left Latissimus Dorsi""]",0.0,True
+S09,S09::s09_lift_li3_3,LRAS,1,[12],"[""Left Rectus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_3,LRAM,1,[13],"[""EMG Signal 2""]",0.0,True
+S09,S09::s09_lift_li3_3,LEO,1,[14],"[""Left Obliquus externus abdominis""]",0.0,True
+S09,S09::s09_lift_li3_3,LIO,1,[15],"[""Left Obliquus internus abdominis""]",0.0,True

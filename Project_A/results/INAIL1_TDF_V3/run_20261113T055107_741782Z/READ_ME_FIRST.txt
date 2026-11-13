@@ -1,0 +1,24 @@
+Project A INAIL1 TDF V3
+
+{
+  "version": "3.0",
+  "project_root": "/home/rafsan/Documents/GitHub/IPEXBIO/Project_A",
+  "data_root": "/home/rafsan/Downloads/INAIL_1/Dataset1/DATA",
+  "MAT_files": 17,
+  "TDF_files": 132,
+  "parsed_trial_rows": 89,
+  "parsed_participants": 10,
+  "errors": 43,
+  "nominal_source_correspondence_supported_trials": 58,
+  "cross_subject_quarantined_trials": 0,
+  "candidate_phase_channel_rows": 2592,
+  "candidate_phase_channel_rows_after_provenance": 1581,
+  "approved_training_rows": 0,
+  "hardware_latency_verified": false,
+  "phase_definition_selected": false,
+  "MVC_normalization_applied": false,
+  "INAIL2": "Optional extension; does not repair source provenance or event-definition problems.",
+  "next_step": "Review event reconciliation and phase QC, fix the phase definition and MVC rules, then construct reviewed targets."
+}
+
+No training performed. Candidate phase values are diagnostics on TDF nominal clocks. Inspect errors, channel mapping, marker correspondence and duplicate provenance before interpreting pooled counts. Both phase definitions are reported separately; neither has been selected automatically. Missing data and constant runs are flagged. Source files remain unchanged. No raw recordings are included in the ZIP.

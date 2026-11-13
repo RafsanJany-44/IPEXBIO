@@ -1,0 +1,15 @@
+{
+  "marker_rmse_review_limit": 0.005,
+  "marker_max_error_review_limit": 0.02,
+  "constant_run_review_seconds": 0.05,
+  "source_mapping_scale": 1000000.0,
+  "EMG_matching_tolerance": 1e-08,
+  "phase_definitions": [
+    "MAT_one_based_candidate",
+    "TDF_Start_Stop_candidate"
+  ],
+  "parser": "bounded_version1_by_track_no_sample_count_adjustment",
+  "python": "3.11.14 (main, Oct 21 2025, 18:31:21) [GCC 11.2.0]",
+  "numpy": "2.4.6",
+  "pandas": "2.3.3"
+}

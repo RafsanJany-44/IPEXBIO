@@ -1,0 +1,2450 @@
+[
+  {
+    "subject": "S01",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1482060940883012,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 267.92075068665497
+  },
+  {
+    "subject": "S01",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2703941925420827,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 350.28095977204964
+  },
+  {
+    "subject": "S01",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0004135089136819,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 103.32637084639536
+  },
+  {
+    "subject": "S01",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0794972722213827,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 193.08070270002543
+  },
+  {
+    "subject": "S01",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0569865101765838,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 182.36714087497026
+  },
+  {
+    "subject": "S01",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2567722742337,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 293.585410371975
+  },
+  {
+    "subject": "S01",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.150124181475714,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 192.11549547834875
+  },
+  {
+    "subject": "S01",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2534422128269205,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 130.30439866874056
+  },
+  {
+    "subject": "S01",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2367839160892535,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 375.14191989454116
+  },
+  {
+    "subject": "S01",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.126767493245464,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 412.87581226333543
+  },
+  {
+    "subject": "S01",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1950406369050104,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 120.92101423189735
+  },
+  {
+    "subject": "S01",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0687802471050603,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 159.23225507746588
+  },
+  {
+    "subject": "S01",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.086693251920415,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 552.4034713092353
+  },
+  {
+    "subject": "S01",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1795678486837338,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 304.2977426941096
+  },
+  {
+    "subject": "S01",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0280097697379187,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 236.19267964523743
+  },
+  {
+    "subject": "S01",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2234740308350092,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 1774.6408732299774
+  },
+  {
+    "subject": "S02",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.052511356575186,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 332.3749830187817
+  },
+  {
+    "subject": "S02",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.016745247257181,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 130.60929412245233
+  },
+  {
+    "subject": "S02",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0269480812425504,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 247.17946936822435
+  },
+  {
+    "subject": "S02",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0154417178261703,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 446.3755658211468
+  },
+  {
+    "subject": "S02",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3024568130708412,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 1009.9924485626941
+  },
+  {
+    "subject": "S02",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0367107965423523,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 240.52185227444792
+  },
+  {
+    "subject": "S02",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 113.24612148850895
+  },
+  {
+    "subject": "S02",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 41.54107733376519
+  },
+  {
+    "subject": "S02",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2488182179450826,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 332.56750913310833
+  },
+  {
+    "subject": "S02",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2667333318924403,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 175.29607750738236
+  },
+  {
+    "subject": "S02",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2325737270177686,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 277.4226497594294
+  },
+  {
+    "subject": "S02",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0092904101639864,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 419.679820686399
+  },
+  {
+    "subject": "S02",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1966863684696492,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 931.3283974667427
+  },
+  {
+    "subject": "S02",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0841739854738621,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 281.9212435640863
+  },
+  {
+    "subject": "S02",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 192.93211924600405
+  },
+  {
+    "subject": "S02",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 36.396396218206256
+  },
+  {
+    "subject": "S03",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0523237434604504,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 165.31191205472857
+  },
+  {
+    "subject": "S03",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.193651694432639,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 330.03972173538625
+  },
+  {
+    "subject": "S03",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2005564980738814,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 361.54760279229924
+  },
+  {
+    "subject": "S03",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.9821981140866647,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 118.25940463315084
+  },
+  {
+    "subject": "S03",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0222995859741848,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 401.31438371210515
+  },
+  {
+    "subject": "S03",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1788041493590375,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 350.5899102695859
+  },
+  {
+    "subject": "S03",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0489032956112554,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 44.550342664282894
+  },
+  {
+    "subject": "S03",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.7078315345803519,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 72.88239508461788
+  },
+  {
+    "subject": "S03",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2026201043806817,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 214.99228316215058
+  },
+  {
+    "subject": "S03",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.280578471416534,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 193.60545817697584
+  },
+  {
+    "subject": "S03",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0825632532051357,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 273.5972869362554
+  },
+  {
+    "subject": "S03",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.03905482708436,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 132.55068424438295
+  },
+  {
+    "subject": "S03",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0324784091379136,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 285.97170031573614
+  },
+  {
+    "subject": "S03",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0832440759683999,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 306.5830276164179
+  },
+  {
+    "subject": "S03",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0450370476759794,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 73.38979144922271
+  },
+  {
+    "subject": "S03",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1214230778830299,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 53.83448985263545
+  },
+  {
+    "subject": "S04",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0921121112377161,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 129.40086131672285
+  },
+  {
+    "subject": "S04",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.088517480940675,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 188.4450257180017
+  },
+  {
+    "subject": "S04",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0438955119777156,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 77.85551903449024
+  },
+  {
+    "subject": "S04",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1281909339833691,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 515.1579848910345
+  },
+  {
+    "subject": "S04",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.24268986273329,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 281.75244614363396
+  },
+  {
+    "subject": "S04",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0925422615015137,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 468.4047463562901
+  },
+  {
+    "subject": "S04",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3841439534989992,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 93.21486106280983
+  },
+  {
+    "subject": "S04",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 12.53126424701475,
+    "mvc_ratio_review_flag": true,
+    "candidate_reference": 76.7710346251902
+  },
+  {
+    "subject": "S04",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2473604816399129,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 122.62964603873999
+  },
+  {
+    "subject": "S04",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1880868743057864,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 89.33408987627467
+  },
+  {
+    "subject": "S04",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1342248223027855,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 86.31777946664151
+  },
+  {
+    "subject": "S04",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.058941158354427,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 497.54493478755785
+  },
+  {
+    "subject": "S04",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1303099174738964,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 640.0544456224849
+  },
+  {
+    "subject": "S04",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0633296761027928,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 427.7771864052074
+  },
+  {
+    "subject": "S04",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.4398555530200394,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 86.1640540577029
+  },
+  {
+    "subject": "S04",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.034153223625797,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 102.0594520823701
+  },
+  {
+    "subject": "S05",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0057145650425563,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 296.523379606785
+  },
+  {
+    "subject": "S05",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2435866409417187,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 292.79428988078996
+  },
+  {
+    "subject": "S05",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1236333204421927,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 256.0039424211407
+  },
+  {
+    "subject": "S05",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.314974680301243,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 1037.8349853296359
+  },
+  {
+    "subject": "S05",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0434662936803165,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 597.3982810788976
+  },
+  {
+    "subject": "S05",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1840974026847413,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 568.0388833528136
+  },
+  {
+    "subject": "S05",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.086183200255419,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 374.53188021211514
+  },
+  {
+    "subject": "S05",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0714167379369604,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 179.89627441905827
+  },
+  {
+    "subject": "S05",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.074598038446129,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 327.02179501023477
+  },
+  {
+    "subject": "S05",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.014039472538986,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 245.7786732358378
+  },
+  {
+    "subject": "S05",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0020470220643876,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 234.47956299336056
+  },
+  {
+    "subject": "S05",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.5708403242504265,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 303.1388292974706
+  },
+  {
+    "subject": "S05",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0013581068592896,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 849.66330881245
+  },
+  {
+    "subject": "S05",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0005039107061287,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 498.7847669921938
+  },
+  {
+    "subject": "S05",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1601367675877452,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 355.32198475401094
+  },
+  {
+    "subject": "S05",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0486085902314954,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 134.0241344669678
+  },
+  {
+    "subject": "S06",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1296769394868063,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 165.28673158418837
+  },
+  {
+    "subject": "S06",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1444950759769092,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 306.77674220752766
+  },
+  {
+    "subject": "S06",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0506565858586228,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 151.57457014894342
+  },
+  {
+    "subject": "S06",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2633906618814454,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 175.6710869827485
+  },
+  {
+    "subject": "S06",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0701519509786301,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 490.53727447794716
+  },
+  {
+    "subject": "S06",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.36605611559812,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 184.37164529385012
+  },
+  {
+    "subject": "S06",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.5187049653745721,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 108.59474540735656
+  },
+  {
+    "subject": "S06",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.6900200420710654,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 52.4131036593149
+  },
+  {
+    "subject": "S06",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2061685658839476,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 154.51008586134316
+  },
+  {
+    "subject": "S06",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.7912665370273362,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 242.0982421694812
+  },
+  {
+    "subject": "S06",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2364637751305907,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 139.16151520071105
+  },
+  {
+    "subject": "S06",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3678324957776968,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 125.6520432348465
+  },
+  {
+    "subject": "S06",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1129037787769844,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 478.3157481509265
+  },
+  {
+    "subject": "S06",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2797463279468901,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 192.63654756165423
+  },
+  {
+    "subject": "S06",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1707549514998297,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 349.35566927134334
+  },
+  {
+    "subject": "S06",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2907207080474643,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 167.60937004935326
+  },
+  {
+    "subject": "S07",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.075424175300835,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 304.8465852717559
+  },
+  {
+    "subject": "S07",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1638039330981849,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 275.18181017466367
+  },
+  {
+    "subject": "S07",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.034542211367044,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 184.7249945894289
+  },
+  {
+    "subject": "S07",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1291345150255645,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 424.49027813560576
+  },
+  {
+    "subject": "S07",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1146220393692838,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 1305.0282923355207
+  },
+  {
+    "subject": "S07",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1435645521892281,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 978.8977600320974
+  },
+  {
+    "subject": "S07",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0810801290712106,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 241.07983166129827
+  },
+  {
+    "subject": "S07",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2673648313825268,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 172.774672218742
+  },
+  {
+    "subject": "S07",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0876656773954827,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 198.01570868524976
+  },
+  {
+    "subject": "S07",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1778913457789153,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 370.6738047511984
+  },
+  {
+    "subject": "S07",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0281062537128471,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 248.373264654206
+  },
+  {
+    "subject": "S07",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1178030519222255,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 359.11946380094724
+  },
+  {
+    "subject": "S07",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.097003299206767,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 1488.190853216577
+  },
+  {
+    "subject": "S07",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1679114808967719,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 1433.8679483511373
+  },
+  {
+    "subject": "S07",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1837845444331445,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 295.3102996726278
+  },
+  {
+    "subject": "S07",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1949830996825133,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 171.71966945873837
+  },
+  {
+    "subject": "S08",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0307765817083305,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 252.11184491693453
+  },
+  {
+    "subject": "S08",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0351003649140487,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 164.73232496561064
+  },
+  {
+    "subject": "S08",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0605765964489735,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 186.70621698664527
+  },
+  {
+    "subject": "S08",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.330486200364416,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 154.0152689979107
+  },
+  {
+    "subject": "S08",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3892054189310736,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 420.66986052168846
+  },
+  {
+    "subject": "S08",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2133076139633494,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 180.79881557532428
+  },
+  {
+    "subject": "S08",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.092324810758831,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 156.93095982106482
+  },
+  {
+    "subject": "S08",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.4066708149235523,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 163.06019293848388
+  },
+  {
+    "subject": "S08",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0541997249708783,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 217.28339254221316
+  },
+  {
+    "subject": "S08",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0664806377399474,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 217.11280795983853
+  },
+  {
+    "subject": "S08",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1043466176743328,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 242.02846090796893
+  },
+  {
+    "subject": "S08",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3867848855635392,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 113.86479066006905
+  },
+  {
+    "subject": "S08",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.4711752432588934,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 484.33325339219334
+  },
+  {
+    "subject": "S08",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.6499460681322864,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 251.7681002417986
+  },
+  {
+    "subject": "S08",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.368331953786865,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 100.45470826057479
+  },
+  {
+    "subject": "S08",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2602785943991592,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 105.22623588681972
+  },
+  {
+    "subject": "S09",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1006743450814698,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 170.13027715130062
+  },
+  {
+    "subject": "S09",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1189681084549785,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 135.4273514731729
+  },
+  {
+    "subject": "S09",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1586269078563682,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 227.9371281137527
+  },
+  {
+    "subject": "S09",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2098105601725726,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 186.73313591013024
+  },
+  {
+    "subject": "S09",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2029842032086124,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 422.0583259768701
+  },
+  {
+    "subject": "S09",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0078217253454937,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 123.32615865546562
+  },
+  {
+    "subject": "S09",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.341553080929366,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 284.1489929147999
+  },
+  {
+    "subject": "S09",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1281698480332185,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 171.51720579944788
+  },
+  {
+    "subject": "S09",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0082657474427295,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 126.94253803506774
+  },
+  {
+    "subject": "S09",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0927831717635337,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 128.6345941929227
+  },
+  {
+    "subject": "S09",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0655220078830347,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 174.9480210762217
+  },
+  {
+    "subject": "S09",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2269270519411453,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 212.10669119438165
+  },
+  {
+    "subject": "S09",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0938829171478002,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 272.7003354884587
+  },
+  {
+    "subject": "S09",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.208577344692716,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 81.74260181473952
+  },
+  {
+    "subject": "S09",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3266206861771674,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 57.94658815331432
+  },
+  {
+    "subject": "S09",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.512045795924327,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 57.8582753881849
+  },
+  {
+    "subject": "S10",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.05832257236396,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 176.3842248322044
+  },
+  {
+    "subject": "S10",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1049474578311138,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 224.2522762842118
+  },
+  {
+    "subject": "S10",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0288777695843734,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 157.01501829096668
+  },
+  {
+    "subject": "S10",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1026929486884482,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 221.46015504504652
+  },
+  {
+    "subject": "S10",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.137524033948193,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 413.2865433442527
+  },
+  {
+    "subject": "S10",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2073808391758385,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 166.33828013394162
+  },
+  {
+    "subject": "S10",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2066917210598076,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 83.634055202898
+  },
+  {
+    "subject": "S10",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1034798350199677,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 72.64369083729324
+  },
+  {
+    "subject": "S10",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0133839563152367,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 193.60030534390884
+  },
+  {
+    "subject": "S10",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.008026607839114,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 182.38930337709758
+  },
+  {
+    "subject": "S10",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0179793663235088,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 157.82262225684508
+  },
+  {
+    "subject": "S10",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0179956460174484,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 176.94833048451085
+  },
+  {
+    "subject": "S10",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.5130919280742106,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 414.6482934157971
+  },
+  {
+    "subject": "S10",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2791956409665541,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 445.5127976068213
+  },
+  {
+    "subject": "S10",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0068531397792702,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 57.3089681229505
+  },
+  {
+    "subject": "S10",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0138318131442108,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 53.72816553692695
+  },
+  {
+    "subject": "S11",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0559590370522016,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 412.08398944180936
+  },
+  {
+    "subject": "S11",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.206557904758354,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 583.4028643028103
+  },
+  {
+    "subject": "S11",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 2.9314453041700257,
+    "mvc_ratio_review_flag": true,
+    "candidate_reference": 1091.2998737983635
+  },
+  {
+    "subject": "S11",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1501553358522365,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 328.31909032932754
+  },
+  {
+    "subject": "S11",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0925948753727537,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 836.7206606640771
+  },
+  {
+    "subject": "S11",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.212426366268161,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 470.77043141915277
+  },
+  {
+    "subject": "S11",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2234900796632324,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 159.71116435481886
+  },
+  {
+    "subject": "S11",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0558247646073387,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 147.95122519266513
+  },
+  {
+    "subject": "S11",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0589432054033234,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 731.0933446828489
+  },
+  {
+    "subject": "S11",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.083784796711274,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 697.5503618175147
+  },
+  {
+    "subject": "S11",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0819742747903893,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 303.8044597919331
+  },
+  {
+    "subject": "S11",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.072158384041035,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 1545.8801026500641
+  },
+  {
+    "subject": "S11",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.114566984019768,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 872.4810394280688
+  },
+  {
+    "subject": "S11",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0802842201045977,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 719.7159615395439
+  },
+  {
+    "subject": "S11",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2496662055998298,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 117.75748099588856
+  },
+  {
+    "subject": "S11",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0716185561463205,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 97.4823298648542
+  },
+  {
+    "subject": "S12",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1119067922369013,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 133.80866535262837
+  },
+  {
+    "subject": "S12",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2138286569269134,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 334.95058075433457
+  },
+  {
+    "subject": "S12",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2324427582287052,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 107.62065305192439
+  },
+  {
+    "subject": "S12",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.220860963181094,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 136.4742067597358
+  },
+  {
+    "subject": "S12",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0673868663791377,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 216.39531493644483
+  },
+  {
+    "subject": "S12",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0062523665978402,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 95.49710989142365
+  },
+  {
+    "subject": "S12",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.6179022829532546,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 62.291337535699846
+  },
+  {
+    "subject": "S12",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3723817544818624,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 57.5117971988519
+  },
+  {
+    "subject": "S12",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0294341323400669,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 185.7930976211586
+  },
+  {
+    "subject": "S12",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.016098967820223,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 234.81706513382062
+  },
+  {
+    "subject": "S12",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0214544284250355,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 99.17787211362398
+  },
+  {
+    "subject": "S12",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.4928372083835992,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 106.78601191681177
+  },
+  {
+    "subject": "S12",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0284939428168893,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 120.5091983733701
+  },
+  {
+    "subject": "S12",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0171654716082967,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 78.98465088523525
+  },
+  {
+    "subject": "S12",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0636594772293375,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 105.5159180806423
+  },
+  {
+    "subject": "S12",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2043563513437305,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 78.65032572454885
+  },
+  {
+    "subject": "S13",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0058782224995075,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 140.39659048250002
+  },
+  {
+    "subject": "S13",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.040208396520455,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 209.70788602288167
+  },
+  {
+    "subject": "S13",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.4434661679730567,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 116.07021882907179
+  },
+  {
+    "subject": "S13",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0316671302726572,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 98.7658333445774
+  },
+  {
+    "subject": "S13",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.5694530149969708,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 337.5819772909085
+  },
+  {
+    "subject": "S13",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.724613685212479,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 239.33880978249306
+  },
+  {
+    "subject": "S13",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0748740575484597,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 82.25961811414741
+  },
+  {
+    "subject": "S13",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3826914657717202,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 106.48296384878158
+  },
+  {
+    "subject": "S13",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0998267556181043,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 178.5297484327788
+  },
+  {
+    "subject": "S13",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1357074416393524,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 311.42896357502303
+  },
+  {
+    "subject": "S13",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1549344174244567,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 123.47014590602217
+  },
+  {
+    "subject": "S13",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2070428962144504,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 88.88717153328598
+  },
+  {
+    "subject": "S13",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.521685554822864,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 424.1151442610951
+  },
+  {
+    "subject": "S13",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.7325121220824813,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 203.09217897017226
+  },
+  {
+    "subject": "S13",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1860871122207024,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 75.00778889040753
+  },
+  {
+    "subject": "S13",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3569457564239733,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 63.78652392525448
+  },
+  {
+    "subject": "S14",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1759859275730777,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 279.6322641816126
+  },
+  {
+    "subject": "S14",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.289247417967717,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 450.4053864122061
+  },
+  {
+    "subject": "S14",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0404579675024388,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 208.3745073303298
+  },
+  {
+    "subject": "S14",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 146.69427725369005
+  },
+  {
+    "subject": "S14",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.204567121106229,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 192.7745639776912
+  },
+  {
+    "subject": "S14",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2394805821768058,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 122.40696611337854
+  },
+  {
+    "subject": "S14",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.244385075276016,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 278.3360064859586
+  },
+  {
+    "subject": "S14",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.6341073301416933,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 95.63771043259057
+  },
+  {
+    "subject": "S14",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.122563019395319,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 179.85872920230113
+  },
+  {
+    "subject": "S14",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.205315389835174,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 771.2361439085237
+  },
+  {
+    "subject": "S14",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.220954933825954,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 254.37592628838598
+  },
+  {
+    "subject": "S14",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 140.71637263667816
+  },
+  {
+    "subject": "S14",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2810731729348293,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 243.06267382769926
+  },
+  {
+    "subject": "S14",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1273683043098521,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 156.50134030267424
+  },
+  {
+    "subject": "S14",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0049838858627393,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 126.65875253607672
+  },
+  {
+    "subject": "S14",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0056031218970303,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 112.98008719136061
+  },
+  {
+    "subject": "S15",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.012056206995718,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 185.6931135588449
+  },
+  {
+    "subject": "S15",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2360969011308383,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 158.36989111316157
+  },
+  {
+    "subject": "S15",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0303180728567052,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 131.70063604555148
+  },
+  {
+    "subject": "S15",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0299824158897322,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 212.6451690544851
+  },
+  {
+    "subject": "S15",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1213021338956455,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 252.9324284744859
+  },
+  {
+    "subject": "S15",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1608175940884276,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 150.09616024616804
+  },
+  {
+    "subject": "S15",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 2.4611473088293825,
+    "mvc_ratio_review_flag": true,
+    "candidate_reference": 110.19342854036132
+  },
+  {
+    "subject": "S15",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0722028789207179,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 56.665840282259225
+  },
+  {
+    "subject": "S15",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0144434800618352,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 138.3128559905846
+  },
+  {
+    "subject": "S15",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2632032167373601,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 157.42817656925448
+  },
+  {
+    "subject": "S15",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0257821639102969,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 103.72833331072651
+  },
+  {
+    "subject": "S15",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1381921382617786,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 141.21998286182753
+  },
+  {
+    "subject": "S15",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.130499180549316,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 326.79936784814794
+  },
+  {
+    "subject": "S15",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0403798880599846,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 162.50949138997092
+  },
+  {
+    "subject": "S15",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0035563426821608,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 94.45380100414809
+  },
+  {
+    "subject": "S15",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1961325942901069,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 89.74352051511694
+  },
+  {
+    "subject": "S16",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.129154301784022,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 280.79489253172363
+  },
+  {
+    "subject": "S16",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1746292841250925,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 659.6658654731245
+  },
+  {
+    "subject": "S16",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1061549094262566,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 341.0901065942486
+  },
+  {
+    "subject": "S16",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.06167376874983,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 168.30747158794773
+  },
+  {
+    "subject": "S16",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1743780822179521,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 577.5226747387164
+  },
+  {
+    "subject": "S16",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3194446502553512,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 212.76573788225105
+  },
+  {
+    "subject": "S16",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1384681346707954,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 268.75451145740294
+  },
+  {
+    "subject": "S16",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0455298598617497,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 87.1289652568646
+  },
+  {
+    "subject": "S16",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0618028893711093,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 291.9988878688805
+  },
+  {
+    "subject": "S16",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1095741751936783,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 566.842998882173
+  },
+  {
+    "subject": "S16",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2166351989206077,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 348.7833152596881
+  },
+  {
+    "subject": "S16",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3236281466687827,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 120.00959811661335
+  },
+  {
+    "subject": "S16",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1330827533992294,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 913.3505332259207
+  },
+  {
+    "subject": "S16",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2186666671560935,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 497.78915269428563
+  },
+  {
+    "subject": "S16",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0586770072177643,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 180.07978200898617
+  },
+  {
+    "subject": "S16",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.668391821788234,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 145.01939381245734
+  },
+  {
+    "subject": "S17",
+    "channel": "RESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0832616787103426,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 137.0205826802852
+  },
+  {
+    "subject": "S17",
+    "channel": "RESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1279836630956626,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 99.16355423782379
+  },
+  {
+    "subject": "S17",
+    "channel": "RM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2710505716235645,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 88.29036463859858
+  },
+  {
+    "subject": "S17",
+    "channel": "RLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.397894250469726,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 162.09450012520978
+  },
+  {
+    "subject": "S17",
+    "channel": "RRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1564770429031597,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 118.76047551512703
+  },
+  {
+    "subject": "S17",
+    "channel": "RRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.124612091907604,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 133.84226555223378
+  },
+  {
+    "subject": "S17",
+    "channel": "REO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1705019771441223,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 73.01394368137053
+  },
+  {
+    "subject": "S17",
+    "channel": "RIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0825463911734374,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 58.426070116550264
+  },
+  {
+    "subject": "S17",
+    "channel": "LESL",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1868282873091716,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 49.04660378302925
+  },
+  {
+    "subject": "S17",
+    "channel": "LESI",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.2464741172494593,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 133.90947323894187
+  },
+  {
+    "subject": "S17",
+    "channel": "LM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.338708597834402,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 38.54955432983732
+  },
+  {
+    "subject": "S17",
+    "channel": "LLD",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.42426564417612,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 118.55602777619659
+  },
+  {
+    "subject": "S17",
+    "channel": "LRAS",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.3625596310303365,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 266.6434155441281
+  },
+  {
+    "subject": "S17",
+    "channel": "LRAM",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.0233415731772806,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 120.77689082184793
+  },
+  {
+    "subject": "S17",
+    "channel": "LEO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1769768116237094,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 69.46248048178984
+  },
+  {
+    "subject": "S17",
+    "channel": "LIO",
+    "mvc_entries": 2,
+    "positive_mvc_references": 2,
+    "mvc_repeat_ratio": 1.1832909000212313,
+    "mvc_ratio_review_flag": false,
+    "candidate_reference": 55.42766943266135
+  }
+]

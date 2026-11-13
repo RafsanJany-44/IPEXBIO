@@ -1,0 +1,530 @@
+[
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI1_1.TDF",
+    "bytes": 3126268
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI1_2.TDF",
+    "bytes": 2101716
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI1_3.TDF",
+    "bytes": 2101716
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI2_1.TDF",
+    "bytes": 1355948
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI2_2.TDF",
+    "bytes": 1666780
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI2_3.TDF",
+    "bytes": 1900928
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI3.TDF",
+    "bytes": 2274812
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI3_1.TDF",
+    "bytes": 2530808
+  },
+  {
+    "relative_path": "S01/Proprietary/TDF_format/S01_Lift_LI3_2.TDF",
+    "bytes": 2296800
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI1_1.TDF",
+    "bytes": 2578948
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI1_2.TDF",
+    "bytes": 1941428
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI1_3.TDF",
+    "bytes": 1994132
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI2_1.TDF",
+    "bytes": 2118812
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI2_2.TDF",
+    "bytes": 2111708
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI2_3.TDF",
+    "bytes": 2072164
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI3_1.TDF",
+    "bytes": 2361924
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI3_2.TDF",
+    "bytes": 1900696
+  },
+  {
+    "relative_path": "S010/Proprietary/TDF_format/S10_Lift_LI3_3.TDF",
+    "bytes": 1909144
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI1S_1.TDF",
+    "bytes": 1440252
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI1S_2.TDF",
+    "bytes": 1511256
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI1S_3.TDF",
+    "bytes": 1363208
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI2S_1.TDF",
+    "bytes": 1974976
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI2S_2.TDF",
+    "bytes": 1974976
+  },
+  {
+    "relative_path": "S011/Proprietary/TDF_format/S11_TaskLI2S_3.TDF",
+    "bytes": 2091592
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI1S_1.TDF",
+    "bytes": 1692992
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI1S_2.TDF",
+    "bytes": 1721000
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI1S_3.TDF",
+    "bytes": 1941460
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI2S_1.TDF",
+    "bytes": 1543184
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI2S_2.TDF",
+    "bytes": 1589556
+  },
+  {
+    "relative_path": "S012/Proprietary/TDF_format/S12_TaskLI2S_3.TDF",
+    "bytes": 1686368
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI1S_1.TDF",
+    "bytes": 1487880
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI1S_2.TDF",
+    "bytes": 1772712
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI1S_3.TDF",
+    "bytes": 1633764
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI2S_1.TDF",
+    "bytes": 1493672
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI2S_2.TDF",
+    "bytes": 1620404
+  },
+  {
+    "relative_path": "S013/Proprietary/TDF_format/S13_TaskLI2S_3.TDF",
+    "bytes": 1700032
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI1S_1.TDF",
+    "bytes": 1719708
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI1S_2.TDF",
+    "bytes": 1690632
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI1S_3.TDF",
+    "bytes": 1510532
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI2S_1.TDF",
+    "bytes": 1966996
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI2S_2.TDF",
+    "bytes": 1966996
+  },
+  {
+    "relative_path": "S014/Proprietary/TDF_format/S14_TaskLI2S_3.TDF",
+    "bytes": 2103548
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI1S_1.TDF",
+    "bytes": 1767400
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI1S_2.TDF",
+    "bytes": 1573256
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI1S_3.TDF",
+    "bytes": 1894708
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI2S_1.TDF",
+    "bytes": 2319572
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI2S_2.TDF",
+    "bytes": 2034144
+  },
+  {
+    "relative_path": "S015/Proprietary/TDF_format/S15_TaskLI2S_3.TDF",
+    "bytes": 1970348
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI1S_1.TDF",
+    "bytes": 2273696
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI1S_2.TDF",
+    "bytes": 1988016
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI1S_3.TDF",
+    "bytes": 1842760
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI2S_1.TDF",
+    "bytes": 1543184
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI2S_2.TDF",
+    "bytes": 1656684
+  },
+  {
+    "relative_path": "S016/Proprietary/TDF_format/S16_TaskLI2S_3.TDF",
+    "bytes": 2005872
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI1S_1.TDF",
+    "bytes": 2211476
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI1S_2.TDF",
+    "bytes": 1852172
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI1S_3.TDF",
+    "bytes": 2047964
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI2S_1.TDF",
+    "bytes": 2624628
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI2S_2.TDF",
+    "bytes": 2444216
+  },
+  {
+    "relative_path": "S017/Proprietary/TDF_format/S17_TaskLI2S_3.TDF",
+    "bytes": 2201452
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI1_1.TDF",
+    "bytes": 1555700
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI1_2.TDF",
+    "bytes": 1955064
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI1_3.TDF",
+    "bytes": 1820044
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI2_1.TDF",
+    "bytes": 1847880
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI2_2.TDF",
+    "bytes": 2336132
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI2_3.TDF",
+    "bytes": 2235432
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI3_1.TDF",
+    "bytes": 1414460
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI3_2.TDF",
+    "bytes": 1814232
+  },
+  {
+    "relative_path": "S02/Proprietary/TDF_format/S02_Lift_LI3_3.TDF",
+    "bytes": 1978484
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI1_1.TDF",
+    "bytes": 1546932
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI1_2.TDF",
+    "bytes": 2194248
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI1_3.TDF",
+    "bytes": 1560728
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI2_1.TDF",
+    "bytes": 1648956
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI2_2.TDF",
+    "bytes": 2115096
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI2_3.TDF",
+    "bytes": 1577840
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI3_1.TDF",
+    "bytes": 1800472
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI3_2.TDF",
+    "bytes": 1782112
+  },
+  {
+    "relative_path": "S03/Proprietary/TDF_format/S03_Lift_LI3_3.TDF",
+    "bytes": 1851820
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI1_1.TDF",
+    "bytes": 1815044
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI1_2.TDF",
+    "bytes": 1929292
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI1_3.TDF",
+    "bytes": 1839624
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI2_1.TDF",
+    "bytes": 2643372
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI2_2.TDF",
+    "bytes": 1786124
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI2_3.TDF",
+    "bytes": 2207696
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI3_1.TDF",
+    "bytes": 2666524
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI3_2.TDF",
+    "bytes": 2627620
+  },
+  {
+    "relative_path": "S04/Proprietary/TDF_format/S04_Lift_LI3_3.TDF",
+    "bytes": 2627620
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI1_1.TDF",
+    "bytes": 1955880
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI1_2.TDF",
+    "bytes": 1659044
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI1_3.TDF",
+    "bytes": 1278216
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI2_1.TDF",
+    "bytes": 1485060
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI2_2.TDF",
+    "bytes": 1630324
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI2_3.TDF",
+    "bytes": 1266948
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI3_1.TDF",
+    "bytes": 1780964
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI3_2.TDF",
+    "bytes": 1695880
+  },
+  {
+    "relative_path": "S05/Proprietary/TDF_format/S05_Lift_LI3_3.TDF",
+    "bytes": 1695880
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI1_1.TDF",
+    "bytes": 2194328
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI1_2.TDF",
+    "bytes": 1923364
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI1_3.TDF",
+    "bytes": 1226788
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI2_1.TDF",
+    "bytes": 1782472
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI2_2.TDF",
+    "bytes": 2060396
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI2_3.TDF",
+    "bytes": 1987932
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI3_1.TDF",
+    "bytes": 2385356
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI3_2.TDF",
+    "bytes": 1933656
+  },
+  {
+    "relative_path": "S06/Proprietary/TDF_format/S06_Lift_LI3_3.TDF",
+    "bytes": 2261440
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI1_1.TDF",
+    "bytes": 2031696
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI1_2.TDF",
+    "bytes": 1211092
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI1_3.TDF",
+    "bytes": 1284756
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI2_1.TDF",
+    "bytes": 1403848
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI2_2.TDF",
+    "bytes": 1239024
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI2_3.TDF",
+    "bytes": 1590768
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI3_1.TDF",
+    "bytes": 1977348
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI3_2.TDF",
+    "bytes": 1774064
+  },
+  {
+    "relative_path": "S07/Proprietary/TDF_format/S07_Lift_LI3_3.TDF",
+    "bytes": 1837316
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI1_1.TDF",
+    "bytes": 3987712
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI1_2.TDF",
+    "bytes": 2647288
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI1_3.TDF",
+    "bytes": 2313864
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI2_1.TDF",
+    "bytes": 2463272
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI2_2.TDF",
+    "bytes": 2671200
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI2_3.TDF",
+    "bytes": 2179404
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI3_1.TDF",
+    "bytes": 2683612
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI3_2.TDF",
+    "bytes": 2690656
+  },
+  {
+    "relative_path": "S08/Proprietary/TDF_format/S08_Lift_LI3_3.TDF",
+    "bytes": 2710156
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI1_1.TDF",
+    "bytes": 2557312
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI1_2.TDF",
+    "bytes": 3676832
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI1_3.TDF",
+    "bytes": 2396952
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI2_1.TDF",
+    "bytes": 2673624
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI2_2.TDF",
+    "bytes": 2619896
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI2_3.TDF",
+    "bytes": 2341996
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI3_1.TDF",
+    "bytes": 2637020
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI3_2.TDF",
+    "bytes": 2300732
+  },
+  {
+    "relative_path": "S09/Proprietary/TDF_format/S09_Lift_LI3_3.TDF",
+    "bytes": 2300732
+  }
+]
