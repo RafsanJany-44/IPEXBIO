@@ -1,0 +1,33 @@
+{
+  "host": "user-GPU",
+  "OS": "Linux-6.8.0-138-generic-x86_64-with-glibc2.35",
+  "CPU": "x86_64",
+  "CPU_logical_cores": 20,
+  "python": "3.11.14 (main, Oct 21 2025, 18:31:21) [GCC 11.2.0]",
+  "torch": "2.5.1+cu121",
+  "torch_CUDA_build": "12.1",
+  "visible_CUDA_count": 2,
+  "GPUs": [
+    {
+      "id": 0,
+      "name": "Tesla V100-PCIE-32GB",
+      "VRAM_GB": 31.73,
+      "capability": "(7, 0)",
+      "operational": true
+    },
+    {
+      "id": 1,
+      "name": "Tesla V100-PCIE-32GB",
+      "VRAM_GB": 31.73,
+      "capability": "(7, 0)",
+      "operational": true
+    }
+  ],
+  "selected_GPU_ids": [
+    0,
+    1
+  ],
+  "execution": "DataParallel on 2 GPUs",
+  "precision": "float32",
+  "smoke_test": false
+}

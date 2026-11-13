@@ -1,0 +1,19 @@
+cohort,reference,model,workers,mean_MAE_improvement,bootstrap_CI_low,bootstrap_CI_high,workers_improved,interpretation
+primary_LI1_LI2,Ridge_Task,CNN,17,-0.8534629267025615,-3.1057726465097435,1.139619338824078,8,positive favours sequence model; exploratory paired worker bootstrap
+primary_LI1_LI2,Ridge_Task,GRU,17,-1.0623707780651008,-4.119616995878468,1.5627945371468868,9,positive favours sequence model; exploratory paired worker bootstrap
+primary_LI1_LI2,Ridge_Task,Transformer,17,-1.5329839859133443,-3.814974795985065,0.6314511757660533,7,positive favours sequence model; exploratory paired worker bootstrap
+primary_LI1_LI2,Ridge_TaskDuration,CNN,17,-0.5762952324611685,-2.9847970302432194,1.5379028532240122,9,positive favours sequence model; exploratory paired worker bootstrap
+primary_LI1_LI2,Ridge_TaskDuration,GRU,17,-0.7852030838237078,-3.9334362621790433,1.7628199167423007,9,positive favours sequence model; exploratory paired worker bootstrap
+primary_LI1_LI2,Ridge_TaskDuration,Transformer,17,-1.255816291671951,-3.7939035575841755,0.9356246329990086,8,positive favours sequence model; exploratory paired worker bootstrap
+primary_LI1_LI2,Ridge_MovementSummary,CNN,17,4.806655712065354,1.8145892494098823,7.947113412088811,13,positive favours sequence model; exploratory paired worker bootstrap
+primary_LI1_LI2,Ridge_MovementSummary,GRU,17,4.597747860702815,1.187716781976178,8.619862649409594,13,positive favours sequence model; exploratory paired worker bootstrap
+primary_LI1_LI2,Ridge_MovementSummary,Transformer,17,4.127134652854572,1.0174404003573405,7.476994013295447,13,positive favours sequence model; exploratory paired worker bootstrap
+secondary_S01_S10_LI1_LI2_LI3,Ridge_Task,CNN,10,-0.9536837906749167,-3.2469994099493396,0.7704898224274309,5,positive favours sequence model; exploratory paired worker bootstrap
+secondary_S01_S10_LI1_LI2_LI3,Ridge_Task,GRU,10,-0.4895733193114956,-1.9383552110360736,0.7576227167966182,6,positive favours sequence model; exploratory paired worker bootstrap
+secondary_S01_S10_LI1_LI2_LI3,Ridge_Task,Transformer,10,-0.5770188693647033,-1.84845017073883,0.5783571223969799,4,positive favours sequence model; exploratory paired worker bootstrap
+secondary_S01_S10_LI1_LI2_LI3,Ridge_TaskDuration,CNN,10,-0.421816280594579,-2.829570324305031,1.3436339828096027,6,positive favours sequence model; exploratory paired worker bootstrap
+secondary_S01_S10_LI1_LI2_LI3,Ridge_TaskDuration,GRU,10,0.0422941907688422,-1.4765292742296499,1.466408191659935,6,positive favours sequence model; exploratory paired worker bootstrap
+secondary_S01_S10_LI1_LI2_LI3,Ridge_TaskDuration,Transformer,10,-0.04515135928436544,-1.272607669824803,1.2478486106351547,4,positive favours sequence model; exploratory paired worker bootstrap
+secondary_S01_S10_LI1_LI2_LI3,Ridge_MovementSummary,CNN,10,1.159040370473155,-0.6663568729217411,3.0548722185967128,6,positive favours sequence model; exploratory paired worker bootstrap
+secondary_S01_S10_LI1_LI2_LI3,Ridge_MovementSummary,GRU,10,1.6231508418365763,-0.27732557033499056,3.6544334725594063,4,positive favours sequence model; exploratory paired worker bootstrap
+secondary_S01_S10_LI1_LI2_LI3,Ridge_MovementSummary,Transformer,10,1.5357052917833687,-0.1485503128060582,3.2292785195012885,6,positive favours sequence model; exploratory paired worker bootstrap

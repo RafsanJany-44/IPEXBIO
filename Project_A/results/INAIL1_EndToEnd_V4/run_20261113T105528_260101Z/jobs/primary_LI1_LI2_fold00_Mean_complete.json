@@ -1,0 +1,10 @@
+{
+  "job_id": "primary_LI1_LI2_fold00_Mean",
+  "cohort": "primary_LI1_LI2",
+  "fold": 0,
+  "model": "Mean",
+  "seed": -1,
+  "alpha": null,
+  "seconds": 0.0068968909326940775,
+  "status": "complete"
+}

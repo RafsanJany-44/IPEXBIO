@@ -1,0 +1,44 @@
+{
+  "pipeline_version": "4.0",
+  "smoke": false,
+  "seeds": [
+    11,
+    22,
+    33
+  ],
+  "epochs": 100,
+  "patience": 15,
+  "batch_size": 32,
+  "lr": 0.001,
+  "weight_decay": 0.001,
+  "length": 128,
+  "width": 32,
+  "dropout": 0.2,
+  "secondary": true,
+  "targets": [
+    "RESL",
+    "RESI",
+    "LESL",
+    "LESI"
+  ],
+  "markers": [
+    "c7",
+    "Sacrum",
+    "RShould",
+    "LShould",
+    "RElbow",
+    "LElbow",
+    "RRadio",
+    "LRadio",
+    "RAsis",
+    "LAsis",
+    "RKnee1",
+    "LKnee1"
+  ],
+  "notebook_sha256": "e911a5767b1ab3e305fdbcfaf74b9ac735895e801d676e61b16419282f8a032d",
+  "phase_rule": "crate_4Hz_order4_velocity_0.025_persistence_50ms",
+  "MVC_rule": "max_of_two_filtered_RMS250ms_p95_ratio_le2",
+  "nominal_clock_assumption": true,
+  "prepared_fingerprint": "cbd45bbbc0fa85391a66745478c6932c4b05d3d3f8b03825b8925ed3e5d2d30f",
+  "fingerprint": "a4e8e34995469921d5b73b879cf837a5d801b3d5b332cc8e9dee645eea5e2516"
+}

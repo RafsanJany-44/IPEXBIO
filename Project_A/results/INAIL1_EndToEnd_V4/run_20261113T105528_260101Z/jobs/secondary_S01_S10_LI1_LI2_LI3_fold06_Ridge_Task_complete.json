@@ -1,0 +1,10 @@
+{
+  "job_id": "secondary_S01_S10_LI1_LI2_LI3_fold06_Ridge_Task",
+  "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+  "fold": 6,
+  "model": "Ridge_Task",
+  "seed": -1,
+  "alpha": 10.0,
+  "seconds": 0.055535076884552836,
+  "status": "complete"
+}

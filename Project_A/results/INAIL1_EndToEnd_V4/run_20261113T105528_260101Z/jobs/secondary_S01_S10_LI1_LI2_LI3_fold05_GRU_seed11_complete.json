@@ -1,0 +1,12 @@
+{
+  "job_id": "secondary_S01_S10_LI1_LI2_LI3_fold05_GRU_seed11",
+  "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+  "fold": 5,
+  "model": "GRU",
+  "seed": 11,
+  "parameters": 8028,
+  "chosen_epochs": 20,
+  "selection_seconds": 1.5186537830159068,
+  "refit_seconds": 0.9658195129595697,
+  "status": "complete"
+}

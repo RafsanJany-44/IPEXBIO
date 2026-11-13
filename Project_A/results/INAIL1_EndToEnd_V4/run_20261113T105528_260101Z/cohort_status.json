@@ -1,0 +1,16 @@
+[
+  {
+    "cohort": "primary_LI1_LI2",
+    "status": "scheduled",
+    "workers": 17,
+    "trials": 96,
+    "outer_folds": 17
+  },
+  {
+    "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+    "status": "scheduled",
+    "workers": 10,
+    "trials": 85,
+    "outer_folds": 10
+  }
+]

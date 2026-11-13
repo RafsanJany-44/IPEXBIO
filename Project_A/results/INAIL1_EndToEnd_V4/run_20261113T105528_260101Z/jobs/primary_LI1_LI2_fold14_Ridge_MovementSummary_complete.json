@@ -1,0 +1,10 @@
+{
+  "job_id": "primary_LI1_LI2_fold14_Ridge_MovementSummary",
+  "cohort": "primary_LI1_LI2",
+  "fold": 14,
+  "model": "Ridge_MovementSummary",
+  "seed": -1,
+  "alpha": 100.0,
+  "seconds": 0.07746397913433611,
+  "status": "complete"
+}

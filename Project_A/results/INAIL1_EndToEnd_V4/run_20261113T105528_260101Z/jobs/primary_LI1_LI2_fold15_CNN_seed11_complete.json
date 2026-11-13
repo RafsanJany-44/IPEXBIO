@@ -1,0 +1,12 @@
+{
+  "job_id": "primary_LI1_LI2_fold15_CNN_seed11",
+  "cohort": "primary_LI1_LI2",
+  "fold": 15,
+  "model": "CNN",
+  "seed": 11,
+  "parameters": 12764,
+  "chosen_epochs": 1,
+  "selection_seconds": 1.1778002202045172,
+  "refit_seconds": 0.0552812060341239,
+  "status": "complete"
+}

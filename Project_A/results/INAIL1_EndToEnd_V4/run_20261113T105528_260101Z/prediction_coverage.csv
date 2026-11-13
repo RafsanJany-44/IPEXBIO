@@ -1,0 +1,15 @@
+cohort,model,predicted_channel_rows,workers,trials
+primary_LI1_LI2,CNN,384,17,96
+primary_LI1_LI2,GRU,384,17,96
+primary_LI1_LI2,Mean,384,17,96
+primary_LI1_LI2,Ridge_MovementSummary,384,17,96
+primary_LI1_LI2,Ridge_Task,384,17,96
+primary_LI1_LI2,Ridge_TaskDuration,384,17,96
+primary_LI1_LI2,Transformer,384,17,96
+secondary_S01_S10_LI1_LI2_LI3,CNN,340,10,85
+secondary_S01_S10_LI1_LI2_LI3,GRU,340,10,85
+secondary_S01_S10_LI1_LI2_LI3,Mean,340,10,85
+secondary_S01_S10_LI1_LI2_LI3,Ridge_MovementSummary,340,10,85
+secondary_S01_S10_LI1_LI2_LI3,Ridge_Task,340,10,85
+secondary_S01_S10_LI1_LI2_LI3,Ridge_TaskDuration,340,10,85
+secondary_S01_S10_LI1_LI2_LI3,Transformer,340,10,85

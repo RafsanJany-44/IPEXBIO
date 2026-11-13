@@ -1,0 +1,342 @@
+Project A INAIL 1 V4 feedback package
+
+{
+  "version": "4.0",
+  "execution": "DataParallel on 2 GPUs",
+  "smoke_test": false,
+  "run_dir": "/home/rafsan/Documents/GitHub/IPEXBIO/Project_A/results/INAIL1_EndToEnd_V4/run_20261113T105528_260101Z",
+  "raw_participant_files": 17,
+  "prepared_workers": 17,
+  "prepared_trials": 123,
+  "cohorts": [
+    {
+      "cohort": "primary_LI1_LI2",
+      "status": "scheduled",
+      "workers": 17,
+      "trials": 96,
+      "outer_folds": 17
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "status": "scheduled",
+      "workers": 10,
+      "trials": 85,
+      "outer_folds": 10
+    }
+  ],
+  "jobs_expected": 351,
+  "jobs_completed": 351,
+  "jobs_missing": [],
+  "job_errors": 0,
+  "preparation_errors": 0,
+  "comparison_complete": true,
+  "comparison_common_channel_rows": 5068,
+  "performance": [
+    {
+      "cohort": "primary_LI1_LI2",
+      "model": "CNN",
+      "worker_balanced_MAE": 20.485639969663684,
+      "mean_worker_channel_RMSE": 21.624144312115536
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "model": "GRU",
+      "worker_balanced_MAE": 20.694547821026223,
+      "mean_worker_channel_RMSE": 22.141175858885553
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "model": "Mean",
+      "worker_balanced_MAE": 20.446473587728015,
+      "mean_worker_channel_RMSE": 21.773666739262268
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "model": "Ridge_MovementSummary",
+      "worker_balanced_MAE": 25.292295681729037,
+      "mean_worker_channel_RMSE": 27.030967083134023
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "model": "Ridge_Task",
+      "worker_balanced_MAE": 19.63217704296112,
+      "mean_worker_channel_RMSE": 20.55510711590087
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "model": "Ridge_TaskDuration",
+      "worker_balanced_MAE": 19.909344737202513,
+      "mean_worker_channel_RMSE": 20.810957497424777
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "model": "Transformer",
+      "worker_balanced_MAE": 21.165161028874465,
+      "mean_worker_channel_RMSE": 22.329208661684195
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "model": "CNN",
+      "worker_balanced_MAE": 13.500832013068376,
+      "mean_worker_channel_RMSE": 15.623786206042368
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "model": "GRU",
+      "worker_balanced_MAE": 13.036721541704955,
+      "mean_worker_channel_RMSE": 15.357561593838131
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "model": "Mean",
+      "worker_balanced_MAE": 14.100026242600546,
+      "mean_worker_channel_RMSE": 16.861750508970893
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "model": "Ridge_MovementSummary",
+      "worker_balanced_MAE": 14.659872383541531,
+      "mean_worker_channel_RMSE": 17.600119823765763
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "model": "Ridge_Task",
+      "worker_balanced_MAE": 12.54714822239346,
+      "mean_worker_channel_RMSE": 14.94987705421913
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "model": "Ridge_TaskDuration",
+      "worker_balanced_MAE": 13.079015732473797,
+      "mean_worker_channel_RMSE": 15.505953057229679
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "model": "Transformer",
+      "worker_balanced_MAE": 13.124167091758164,
+      "mean_worker_channel_RMSE": 15.31212021580717
+    }
+  ],
+  "paired_comparisons": [
+    {
+      "cohort": "primary_LI1_LI2",
+      "reference": "Ridge_Task",
+      "model": "CNN",
+      "workers": 17,
+      "mean_MAE_improvement": -0.8534629267025615,
+      "bootstrap_CI_low": -3.1057726465097435,
+      "bootstrap_CI_high": 1.139619338824078,
+      "workers_improved": 8,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "reference": "Ridge_Task",
+      "model": "GRU",
+      "workers": 17,
+      "mean_MAE_improvement": -1.0623707780651008,
+      "bootstrap_CI_low": -4.119616995878468,
+      "bootstrap_CI_high": 1.5627945371468868,
+      "workers_improved": 9,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "reference": "Ridge_Task",
+      "model": "Transformer",
+      "workers": 17,
+      "mean_MAE_improvement": -1.5329839859133443,
+      "bootstrap_CI_low": -3.814974795985065,
+      "bootstrap_CI_high": 0.6314511757660533,
+      "workers_improved": 7,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "reference": "Ridge_TaskDuration",
+      "model": "CNN",
+      "workers": 17,
+      "mean_MAE_improvement": -0.5762952324611685,
+      "bootstrap_CI_low": -2.9847970302432194,
+      "bootstrap_CI_high": 1.5379028532240122,
+      "workers_improved": 9,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "reference": "Ridge_TaskDuration",
+      "model": "GRU",
+      "workers": 17,
+      "mean_MAE_improvement": -0.7852030838237078,
+      "bootstrap_CI_low": -3.9334362621790433,
+      "bootstrap_CI_high": 1.7628199167423007,
+      "workers_improved": 9,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "reference": "Ridge_TaskDuration",
+      "model": "Transformer",
+      "workers": 17,
+      "mean_MAE_improvement": -1.255816291671951,
+      "bootstrap_CI_low": -3.7939035575841755,
+      "bootstrap_CI_high": 0.9356246329990086,
+      "workers_improved": 8,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "reference": "Ridge_MovementSummary",
+      "model": "CNN",
+      "workers": 17,
+      "mean_MAE_improvement": 4.806655712065354,
+      "bootstrap_CI_low": 1.8145892494098823,
+      "bootstrap_CI_high": 7.947113412088811,
+      "workers_improved": 13,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "reference": "Ridge_MovementSummary",
+      "model": "GRU",
+      "workers": 17,
+      "mean_MAE_improvement": 4.597747860702815,
+      "bootstrap_CI_low": 1.187716781976178,
+      "bootstrap_CI_high": 8.619862649409594,
+      "workers_improved": 13,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "primary_LI1_LI2",
+      "reference": "Ridge_MovementSummary",
+      "model": "Transformer",
+      "workers": 17,
+      "mean_MAE_improvement": 4.127134652854572,
+      "bootstrap_CI_low": 1.0174404003573405,
+      "bootstrap_CI_high": 7.476994013295447,
+      "workers_improved": 13,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "reference": "Ridge_Task",
+      "model": "CNN",
+      "workers": 10,
+      "mean_MAE_improvement": -0.9536837906749167,
+      "bootstrap_CI_low": -3.2469994099493396,
+      "bootstrap_CI_high": 0.7704898224274309,
+      "workers_improved": 5,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "reference": "Ridge_Task",
+      "model": "GRU",
+      "workers": 10,
+      "mean_MAE_improvement": -0.4895733193114956,
+      "bootstrap_CI_low": -1.9383552110360736,
+      "bootstrap_CI_high": 0.7576227167966182,
+      "workers_improved": 6,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "reference": "Ridge_Task",
+      "model": "Transformer",
+      "workers": 10,
+      "mean_MAE_improvement": -0.5770188693647033,
+      "bootstrap_CI_low": -1.84845017073883,
+      "bootstrap_CI_high": 0.5783571223969799,
+      "workers_improved": 4,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "reference": "Ridge_TaskDuration",
+      "model": "CNN",
+      "workers": 10,
+      "mean_MAE_improvement": -0.421816280594579,
+      "bootstrap_CI_low": -2.829570324305031,
+      "bootstrap_CI_high": 1.3436339828096027,
+      "workers_improved": 6,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "reference": "Ridge_TaskDuration",
+      "model": "GRU",
+      "workers": 10,
+      "mean_MAE_improvement": 0.0422941907688422,
+      "bootstrap_CI_low": -1.4765292742296499,
+      "bootstrap_CI_high": 1.466408191659935,
+      "workers_improved": 6,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "reference": "Ridge_TaskDuration",
+      "model": "Transformer",
+      "workers": 10,
+      "mean_MAE_improvement": -0.04515135928436544,
+      "bootstrap_CI_low": -1.272607669824803,
+      "bootstrap_CI_high": 1.2478486106351547,
+      "workers_improved": 4,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "reference": "Ridge_MovementSummary",
+      "model": "CNN",
+      "workers": 10,
+      "mean_MAE_improvement": 1.159040370473155,
+      "bootstrap_CI_low": -0.6663568729217411,
+      "bootstrap_CI_high": 3.0548722185967128,
+      "workers_improved": 6,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "reference": "Ridge_MovementSummary",
+      "model": "GRU",
+      "workers": 10,
+      "mean_MAE_improvement": 1.6231508418365763,
+      "bootstrap_CI_low": -0.27732557033499056,
+      "bootstrap_CI_high": 3.6544334725594063,
+      "workers_improved": 4,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    },
+    {
+      "cohort": "secondary_S01_S10_LI1_LI2_LI3",
+      "reference": "Ridge_MovementSummary",
+      "model": "Transformer",
+      "workers": 10,
+      "mean_MAE_improvement": 1.5357052917833687,
+      "bootstrap_CI_low": -0.1485503128060582,
+      "bootstrap_CI_high": 3.2292785195012885,
+      "workers_improved": 6,
+      "interpretation": "positive favours sequence model; exploratory paired worker bootstrap"
+    }
+  ],
+  "negative_prediction_rows": 8,
+  "scientific_status": "exploratory architecture and feasibility pilot; no injury, clinical, causal or publication guarantee",
+  "alignment": "TDF nominal clocks with source correspondence; hardware latency not independently certified",
+  "normalization": "operational filtered MVC-reference normalization; test-worker MVC used only for outcome reference",
+  "feedback_questions": [
+    "How many workers and conditions remain after the fixed rules?",
+    "Does movement improve on task and task-plus-duration references?",
+    "Does improvement persist within conditions and across workers?",
+    "Are architecture differences stable across seeds?",
+    "Are residuals dominated by a few workers, MVC values or exclusion patterns?",
+    "What single methodological change is justified by the observed evidence?"
+  ]
+}
+
+Read main_performance.csv, paired_worker_comparisons.csv, channel_metrics.csv, prediction_coverage.csv, included_trials.csv and trial_ledger.csv together. Predictions and histories are in jobs/. Reported metrics use the common prediction intersection across all required models. Missing jobs can reduce that intersection; check comparison_complete and job_errors.
+
+Do not treat channel rows, random seeds or interpolated time points as independent workers. Architecture ranking is exploratory. Negative predictions are retained. Task-only Ridge and task-plus-duration Ridge distinguish task identity and duration from additional movement information.
+
+Fixed preparation: movement-only onset reconstruction, source correspondence for the four target channels, phase-local crate support, operational MVC normalization, complete four-channel targets, known duplicate quarantine. Full raw arrays and checkpoints remain local and are excluded from this compact ZIP.
+
+Checkpoints contain numpy scaler metadata and should only be loaded from a trusted run. Use torch.load(..., map_location="cpu", weights_only=False) only for trusted local checkpoints with PyTorch versions that default to weights_only=True.
+
+Upload this ZIP and the saved executed notebook. If a cell fails, include its traceback and the partial ZIP. Do not tune against outer test results and call them untouched confirmation.

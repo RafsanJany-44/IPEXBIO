@@ -1,0 +1,12 @@
+{
+  "job_id": "primary_LI1_LI2_fold14_Transformer_seed22",
+  "cohort": "primary_LI1_LI2",
+  "fold": 14,
+  "model": "Transformer",
+  "seed": 22,
+  "parameters": 10652,
+  "chosen_epochs": 4,
+  "selection_seconds": 1.4018488919828087,
+  "refit_seconds": 0.23470182600431144,
+  "status": "complete"
+}

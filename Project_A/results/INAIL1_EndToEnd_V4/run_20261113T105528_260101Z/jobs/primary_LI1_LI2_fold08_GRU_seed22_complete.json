@@ -1,0 +1,12 @@
+{
+  "job_id": "primary_LI1_LI2_fold08_GRU_seed22",
+  "cohort": "primary_LI1_LI2",
+  "fold": 8,
+  "model": "GRU",
+  "seed": 22,
+  "parameters": 8028,
+  "chosen_epochs": 5,
+  "selection_seconds": 1.21448949794285,
+  "refit_seconds": 0.26269244495779276,
+  "status": "complete"
+}
